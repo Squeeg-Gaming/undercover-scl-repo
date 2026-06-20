@@ -1,0 +1,44 @@
+{
+    "id": 114784992,
+    "name": "redragonGriffinChroma",
+    "author": "Pastelliano",
+    "creators": [],
+    "verifier": "Pastelliano",
+    "verification": "https://youtu.be/adrV7L5GOAQ",
+    "percentToQualify": "100",
+    "password": "Alternating/62FPS",
+    "description": "The finale in Pastelliano's redragon griffin trilogy: not the easiest, yet not the hardest. (It's actually the easiest lolol)",
+  "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "percent": 100,
+            "hz": 62
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=e_WzTADMs8A",
+            "percent": 100,
+            "hz": 62
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=MwJQLrnhwV4",
+            "percent": 100,
+            "hz": 62
+        },        
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz": 62,
+            "percent": 100
+        },        
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/YiD9SJIdiaE",
+            "hz": 62,
+            "percent": 100
+        
+        }
+    ]
+}

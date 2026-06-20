@@ -1,0 +1,30 @@
+{
+    "id": 129061295,
+    "name": "Sam Family",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/350ycGbjvQM",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+         {
+            "user": "Xed",
+            "link": "https://www.youtube.com/shorts/oVK88Eb0de8",
+            "hz": "CBF",
+            "percent": 100
+        },
+                         {
+        "user": "G1rcy",
+        "link": "https://www.youtube.com/watch?v=5nxH8XnqkrA",
+        "hz": "CBF",
+        "percent": 100
+        },
+                                 {
+        "user": "AstroGuy",
+        "link": "https://www.youtube.com/watch?v=tILW-nQaVmM",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "id": 130540612,
+    "name": "Frozix never clear",
+    "author": "yuwChaos",
+    "creators": ["Nick24"],
+    "verifier": "galbeni7",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=gWVxgPL04aI",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/PTYwjmVjlFE?t=49",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=nID34G2XbUI",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=nVGDYNyNjDk",
+            "percent": 100,
+            "hz": "CBF"
+        },       
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=_rHJDhXumcw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/lJtnSOz5KEw",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "2OO3",
+            "link": "https://youtu.be/JP9gNmmZFIQ",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "helomomy",
+            "link": "https://youtu.be/uhJRaPks59g",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

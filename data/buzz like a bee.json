@@ -1,0 +1,42 @@
+{
+    "id": 116982638,
+    "name": "buzz like a bee",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/MJzpYCYTdw8?si=fqmizMTNDYEdU2Lv&t=55",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/60 FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/8CCwZE6Lapo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=atKEJHGYPes",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/XjdbWTawIdg?si=qSCGR-2oq1VO0u5H&t=84",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/c5HE8qQ34D0",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/YFlkTuHBnO8",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

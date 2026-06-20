@@ -1,0 +1,44 @@
+{
+    "id": 139420318,
+    "name": "CATASPAM",
+    "author": "Itzrealmerk",
+    "creators": ["Itzrealmerk"],
+    "verifier": "Itzrealmerk",
+    "verification": "https://youtu.be/oK-2LY_B0k4",
+    "percentToQualify": 100,
+    "password": "Alternating",
+    "records": [
+       
+                      {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 240,
+            "percent": 100
+        },
+                              {
+            "user": "astrxyyz",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": 240,
+            "percent": 100
+        },
+                                              {
+            "user": "BunnyLlumi",
+            "link": "https://youtu.be/NBgDZHLiDw4",
+            "hz": 240,
+            "percent": 100
+        },
+                                      {
+            "user": "△LICE",
+            "link": "https://youtu.be/DtAZ3PqBrkM?si=TLLOUDyQvBlBQqc9",
+            "hz": 240,
+            "percent": 100
+           },
+                                      {
+            "user": "polar1s",
+            "link": "https://youtu.be/DtAZ3PqBrkM?si=TLLOUDyQvBlBQqc9",
+            "hz": 240,
+            "percent": 100
+                                     
+           }
+    ]
+}  

@@ -1,0 +1,18 @@
+{
+    "id": 128669831,
+    "name": "Lean roof jitter",
+    "author": "REQUIEMHUNGERS",
+    "creators": ["Pastelliano", "REQUIEMHUNGERS"],
+    "verifier": "REQUIEMHUNGERS",
+    "verification": "https://youtu.be/E5XQYA3xSLA?si=FA4rya_JkII4mriM",
+    "percentToQualify": "100",
+    "password": "Doublejitter/64FPS",
+    "records": [
+        {
+        "user": "LightningGD",
+        "link": "https://www.youtube.com/watch?v=PclzgE6W-hA",
+            "hz": "60",
+            "percent": 100
+        }      
+    ]
+}

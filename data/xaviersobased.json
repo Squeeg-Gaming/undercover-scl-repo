@@ -1,0 +1,24 @@
+{
+    "id": 115211425,
+    "name": "xaviersobased",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "AstroGuy",
+    "verification": "https://www.youtube.com/watch?v=rIdnOBObBho",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/93FPS",
+    "records": [
+        {
+            "user": "justanunknown",
+            "link": " https://www.youtube.com/watch?v=TPoNPcxBtiI",
+            "hz": "60",
+            "percent": 100
+        },
+                 {
+            "user": "Squeeg",
+            "link": "https://youtube.com/live/qsULRwDB7vU",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}

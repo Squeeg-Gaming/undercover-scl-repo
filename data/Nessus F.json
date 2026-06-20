@@ -1,0 +1,19 @@
+{
+    "id": 136914193,
+    "name": "Nessus F",
+    "author": "DelgadoYeet404",
+    "creators": ["Dan, Carter Traywick, DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/lDi6UlAXw64",
+    "percentToQualify": 100,
+    "password": "Manual Scroll/240FPS",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/jUl8eUTns2E",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

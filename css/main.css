@@ -1,0 +1,148 @@
+:root {
+    --color-background: #fbfbfb;
+    --color-on-background: black;
+    --color-background-hover: #eeeeef;
+    --color-on-background-hover: black;
+    --color-primary: #eeeeef;
+    --color-on-primary: black;
+    --color-error: #de0000;
+    --color-on-error: black;
+	--the-button-on-top: brightness(0) saturate(100%);
+	--level-button: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
+	--color-background-list: #fbfbfbde;
+}
+
+main.dark,
+header.dark {
+    color-scheme: dark;
+    --color-background: #1c1b1f;
+    --color-on-background: white;
+    --color-background-hover: #2e2e2e;
+    --color-on-background-hover: white;
+    --color-primary: #2e2e2e;
+    --color-primary-disabled: #1f213c;
+    --color-on-primary: white;
+    --color-error: #de0000;
+    --color-on-error: white;
+	--the-button-on-top: brightness(100%) saturate(100%);
+	--level-button: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+	--color-background-list: #1c1b1fde;
+}
+
+main.darker,
+header.darker {
+    color-scheme: darker;
+    --color-background: #070709;
+    --color-on-background: white;
+    --color-background-hover: #18181B;
+    --color-on-background-hover: white;
+    --color-primary: #18181B;
+    --color-primary-disabled: #1c1c1c;
+    --color-on-primary: white;
+    --color-error: #de0000;
+    --color-on-error: white;
+	--the-button-on-top: filter: brightness(100%) saturate(100%);
+	--level-button: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5));
+	--color-background-list: #070709de;
+}
+* {
+    font-family: 'Poppins';
+}
+html,
+body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+header,
+main {
+    background-color: var(--color-background);
+    color: var(--color-on-background);
+    display: grid;
+    grid-template-columns: minmax(16rem, 0.6fr) 1fr minmax(
+            16em,
+            0.6fr
+        );
+    column-gap: 2rem;
+}
+
+header {
+    display: flex;
+    padding-inline: calc(25vw - 10rem);
+    height: 4rem;
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+}
+@media screen and (min-width: 1366px) {
+    header {
+        display: grid;
+        padding-inline: 0;
+    }
+}
+header .logo {
+    justify-self: end;
+    align-self: center;
+    display: flex;
+    align-items: flex-end;
+    display: inline-block;
+}
+header .nav {
+    flex: 1;
+}
+
+main {
+    height: 0;
+    flex: 1;
+    display: grid;
+    grid-template-rows: minmax(0, 1fr);
+    column-gap: 2rem;
+}
+main > div {
+    overflow-y: auto;
+}
+
+.spinner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    grid-column: span 3;
+}
+.make-it-red {
+    color: red;
+}
+input[type="checkbox"] {
+    height: 1.25rem;
+    width: 1.25rem;
+    cursor: pointer;
+    margin: 0;
+}
+input[type="radio"] {
+    height: 1.25rem;
+    width: 1.25rem;
+    cursor: pointer;
+    margin: 0;
+}
+::-webkit-scrollbar {
+    width: 3px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #ccc;
+    border-radius: 1.5px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background-color: #ddd;
+}
+::picker(select) {
+   background: var(--color-background);
+   color: var(--color-on-background);
+}

@@ -1,0 +1,90 @@
+{
+    "id": 42321985,
+    "name": "HARD SPAM CHALLENGE 1",
+    "author": "MegatunaS",
+    "creators": ["MegatunaS"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        },
+       {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "percent": 100,
+            "hz": 240
+          },
+       {
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "percent": 100,
+            "hz": 240
+       },
+        {
+            "user": "polar1s",
+            "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "percent": 100,
+            "hz": 60
+         },
+        {
+            "user": "ZeorixGD",
+            "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "percent": 100,
+            "hz": 60
+                                   },
+        {
+            "user": "clairetrt",
+            "link": "https://www.youtube.com/watch?v=V1ptSivTwDw&t=12s",
+            "percent": 100,
+            "hz": 60
+        },
+                                              {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                        },
+        {    
+            "user": "powergreen",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                                         },
+        {    
+            "user": "apud111",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                                           },
+        {    
+            "user": "Biniek",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100 
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+         },
+                        {    
+            "user": "zod",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                         },
+                        {    
+            "user": "𝘋𝘐𝘉𝘖𝘋𝘖𝘉𝘗𝘓𝘖𝘉",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                        }
+    ]
+}

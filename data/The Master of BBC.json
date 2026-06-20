@@ -1,0 +1,24 @@
+ {
+"id": 132647785,
+"name": "The Master of BBC",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, SomeDudeV3, Canela"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/CHD-p9nb0XA?si=7L8TLIuAImXyEwIy",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+                                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

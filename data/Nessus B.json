@@ -1,0 +1,30 @@
+{
+    "id": 133506860,
+    "name": "Nessus B",
+    "author": "Dan",
+    "creators": ["Dan, Carter Traywick"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/eWoOBLMcegQ",
+    "percentToQualify": 100,
+    "password": "Lip Spam/CBF",
+    "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+        "hz": "240",
+        "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=ulT5Csvj_IIA7Weh",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/jUl8eUTns2E",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 137846730,
+    "name": "Toyota Corolla Manual",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404, SumdudeV3"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/KnSHZ_Tml2I",
+    "percentToQualify": 100,
+    "password": "Scroll Strumming/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

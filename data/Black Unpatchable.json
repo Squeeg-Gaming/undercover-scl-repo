@@ -1,0 +1,36 @@
+{
+    "id": 138088267,
+    "name": "Black Unpatchable",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=_5GNYa_v6qE",
+    "percentToQualify": "100",
+    "password": "Alternating/30FPS",
+    "records": [
+       {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+       },
+           {
+            "user": "Itzrealmerk",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+        },
+           {
+            "user": "Astrxyyz",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+           },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/svf7iOavEeY",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}

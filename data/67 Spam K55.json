@@ -1,0 +1,42 @@
+{
+    "id": 129707534,
+    "name": "67 Spam K55",
+    "author": "MrArmYT",
+    "creators": [],
+    "verifier": "AllOnRed",
+    "verification": "https://www.youtube.com/watch?v=vS3xeQcs060",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=gb-1dpBP8Rw",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1462864999910211594",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917977329176806",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "jost",
+        "link": "https://www.youtube.com/watch?v=4l0NPuYNBFE",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

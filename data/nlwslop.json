@@ -1,0 +1,19 @@
+{
+"id": 129098140,
+"name": "the spam lemonade 99",
+"author": "Squeeq",
+"creators": ["Squeeg"],
+"verifier": "shafikdabest",
+"verification": "https://youtu.be/4Ys4prgGi0g?si=v2EYEYZYjEGIXRoH",
+"percentToQualify": 100,
+"password": "CBF",
+"records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 63461733,
+    "name": "wsp spam 1x",
+    "author": "Needless",
+    "creators": ["Needless"],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g&t=3s",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+   
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

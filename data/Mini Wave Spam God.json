@@ -1,0 +1,21 @@
+{
+    "id": 111041409,
+    "name": "mini wave spam god",
+    "author": "JoinMolten",
+    "creators": ["JoinMolten, Ternasius"],
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/Q01x41QW8RY",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+       
+        
+        
+            {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

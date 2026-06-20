@@ -1,0 +1,50 @@
+{
+    "id": 137500699,
+    "name": "EllyNeverClear",
+    "author": "Darknessfr",
+    "creators": ["Darknessfr"],
+    "verifier": "Darknessfr",
+    "verification": "https://youtu.be/DhBm0N3mVxo?si=xI86D8NNl7T2mjqA",
+    "percentToQualify": "100",
+    "password": "Alternating/cbf",
+   "records": [
+      
+       
+       {
+        "user": "Astroguy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+    },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "freezeworks",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+       {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+           },
+       {
+            "user": "BunnyLlumi",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+       },
+                                    {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

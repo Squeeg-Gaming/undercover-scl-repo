@@ -1,0 +1,24 @@
+{
+    "id": 117018860,
+    "name": "thirtyfive",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/YJqYHmgoRFU?si=p0fIWLQ9PEZTiHw-&t=15",
+    "percentToQualify": "100",
+    "password": "Altjitter/Alternating/Ludwig/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/t7tAYe3BvEU",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/XjdbWTawIdg?si=qSCGR-2oq1VO0u5H&t=94",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

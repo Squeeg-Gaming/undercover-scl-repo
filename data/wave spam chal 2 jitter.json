@@ -1,0 +1,18 @@
+{
+    "id": 109918682,
+    "name": "wave spam chal 2 jitter",
+    "author": "PGDoSyt",
+    "creators": ["PGDoSyt"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=_5GNYa_v6qE",
+    "percentToQualify": 100,
+    "password": "Jitter/CBF",
+    "records": [
+       {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}           

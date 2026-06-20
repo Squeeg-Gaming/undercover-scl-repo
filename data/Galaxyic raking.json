@@ -1,0 +1,48 @@
+{
+    "id": 127951697,
+    "name": "Galaxyic raking",
+    "author": "Xed",
+    "creators": [],
+    "verifier": "Xed",
+    "verification": "https://www.youtube.com/watch?v=OgFaC_wSzK8",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/FCaVhxVOZ2c",
+            "percent": 100,
+            "hz": 240
+        },
+                        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/Qtr4rakJwVE?si=XfmJCpnxc6rApomu",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "https://www.youtube.com/watch?v=u69IWpE3fL0",
+            "percent": 100,
+            "hz": 240
+        },
+                                                                                                    {
+                "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+         },
+                                                                                                    {
+                "user": "zeorixgd",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+                                                                                                    }
+    ]
+}

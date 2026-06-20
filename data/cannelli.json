@@ -1,0 +1,18 @@
+{
+    "id": 116478080,
+    "name": "Cannellini",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://youtu.be/Wglw8v-W0jQ",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/Alternating/CBF",
+    "records": [
+        {
+            "user": "PaperGuy",
+      "link": "https://youtu.be/5gBToK4sOFE",
+      "hz": "CBF",
+      "percent": 100
+        }
+    ]
+}

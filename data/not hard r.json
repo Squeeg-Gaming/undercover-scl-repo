@@ -1,0 +1,48 @@
+{
+    "id": 115844933,
+    "name": "not hard r",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=gDXIgMH-6Dc",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=bdOYGgskx9M",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=-m8VcZnAdzc&t=150s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=ckzU6DRteX8",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "ShayPlaz",
+            "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
+            "percent": 100,
+            "hz": 60
+          },
+                {
+            "user": "AstroGuy",
+            "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
+            "percent": 100,
+            "hz": 60
+                }
+    ]
+}

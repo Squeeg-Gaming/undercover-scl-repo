@@ -1,0 +1,37 @@
+{
+    "id": 103633220,
+    "name": "Weird Spam",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/E_hVSA1r7y0",
+    "percentToQualify": "100",
+    "password": "Jitter/CBF",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+        },
+                        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/JsFIlp3kGqQ?si=3D-E7yG3wLaGtiQK",
+            "percent": 100,
+            "hz": "cbf"
+       
+        },        
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+        },        
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1I",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

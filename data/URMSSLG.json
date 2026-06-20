@@ -1,0 +1,30 @@
+{
+    "id": 64802301,
+    "name": "URMSSLG",
+    "author": "Needless",
+    "creators": ["RedUniverse, Needless"],
+    "verifier": "Nyan Cat",
+    "verification": "https://www.youtube.com/watch?v=438UK79bjys",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/m9svg5DEw5MT7lWky?invite=cr-MSx4Q1ksNDcyMzE5MDM2",
+            "hz": 240,
+            "percent": 100
+         },
+                {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=nSu7CTgPyl8&t=14s",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 93821116,
+    "name": "22fps chall extende",
+    "author": "ObeyMiniNinja00",
+    "creators": ["ObeyMiniNinja00"],
+    "verifier": "ObeyMiniNinja00",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g",
+    "percentToQualify": 100,
+    "password": "Alternating/22fps",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/yBJdWzdevFo?si=_Hi6YOph_PBITjYi", 
+            "percent": 100,
+            "hz": "22"
+       
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/WtQ4Z58hRjA",
+        "hz": "22",
+        "percent": 100
+        },
+        {
+        "user": "Delgado_yeet_404",
+        "link": "https://youtu.be/yXz4lapyhDg",
+        "hz": "22",
+        "percent": 100
+        },
+        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
+        }
+    ]
+}

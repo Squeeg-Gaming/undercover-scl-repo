@@ -1,0 +1,24 @@
+{
+    "id": 129658934,
+    "name": "Final Exam",
+    "author": "Squeeg",
+    "creators": ["Squeeg, SomeDudeV3"],
+    "verifier": "Squeeg",
+    "verification": "www.youtube.com/watch?v=T9zQgkqitTM",
+    "percentToQualify": 100,
+    "password": "Rake/CBF/No RT",
+    "records": [
+                            {
+        "user": "AngoPR",
+        "link": "https://youtu.be/yTb3lWbKVDg?si=IbuYeejozQ9ZlDkq",
+            "hz": "CBF",
+            "percent": 100
+        },
+                                    {
+                "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

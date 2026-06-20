@@ -1,0 +1,24 @@
+{
+    "id": 136704889,
+    "name": "Golden Meow Puh Playing Tutorial",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404, Canela, SomedudeV3"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/0x6l35BL5wM",
+    "percentToQualify": 100,
+    "password": "AltJitter/Ludwig/CBF/No RT",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

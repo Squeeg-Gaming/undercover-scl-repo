@@ -1,0 +1,42 @@
+{
+    "id": 67817078,
+    "name": "Ember",
+    "author": "Meowpau",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=qqjayVmFj_o&t=14s",
+    "percentToQualify": 100,
+    "password": "Uncapped Alternating/CBF",
+    "records": [
+        {
+        "user": "Paperguy",
+        "link": "https://www.youtube.com/watch?v=t1ws6v9tGBU",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://medal.tv/games/geometry-dash/clips/lr9DEylXo2H2XqCK3?invite=cr-MSxDY2UsMjIxNzM4MzM0&v=120",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+        "user": "helomomy",
+        "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+        "user": "F1erzza",
+        "link": "https://www.youtube.com/watch?v=K3CT8bh_rFw",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

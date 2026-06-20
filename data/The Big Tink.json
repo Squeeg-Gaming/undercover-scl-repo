@@ -1,0 +1,36 @@
+{
+    "id": 116345694,
+    "name": "The Big Tink",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "SomeDudeV3",
+    "verification": "https://youtu.be/xdWdNtqcGLI?si=j7A0wfeKBIO8GUlm",
+    "percentToQualify": 100,
+    "password": "Rake/CBF/No RT",
+    "records": [
+                      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/xdWdNtqcGLI?si=j7A0wfeKBIO8GUlm",
+        "hz": "CBF",
+        "percent": 100
+     },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/xyEbd4cL1SQ?si=hrMz6YJNiV3vbZFR",
+            "hz": 240,
+            "percent": 100  
+            },
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

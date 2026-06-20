@@ -1,0 +1,67 @@
+{
+    "id": 123751511,
+    "name": "I AM HAM",
+    "author": "BLJ_Broken",
+    "creators": ["BLJ_Broken"],
+    "verifier": "BLJ_Broken",
+    "verification": "https://www.youtube.com/watch?v=WBUYYyzwlfU",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=-0PWcCzGg-Y",
+            "percent": 100,
+            "hz": 60
+        
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 60,
+            "percent": 100
+     },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=b_vJXNbSx84",
+            "hz": 240,
+            "percent": 100
+        },
+                       {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+         },
+                       {
+            "user": "abredicegd",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+                       },
+                                                    {
+        "user": "enrique",
+        "link": "https://discord.com/channels/1420111313220403444/1504280894146609323/1504280894146609323",
+            "hz": "60",
+            "percent": 100
+                },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        },
+                                {    
+            "user": "ShayPlaz",
+            "link": "https://youtube.com/shorts/1L75yp8IWpU?si=lmrotMk81ileC_Ag",
+            "hz": "60",
+            "percent": 100
+                                }
+                                    ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 136360466,
+  "name": "Rigor Mormist 2",
+  "author": "DelgadoYeet404",
+  "creators": ["Squeeg, DelgadoYeet404"],
+  "verifier": "Delgado_Yeet_404",
+  "verification": "https://youtu.be/BRhrPg9aDN4",
+  "percentToQualify": 100,
+  "password": "Altjitter/Ludwig/240FPS",
+  "records": [
+        {
+            "user": "jeysce",
+            "link": "https://www.youtube.com/watch?v=AxptNIFKULw&t=1s",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
+}

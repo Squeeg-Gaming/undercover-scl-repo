@@ -1,0 +1,91 @@
+{
+    "id": 124990775,
+    "name": "I Am Lamb",
+    "author": "BLJ_Broken",
+    "creators": ["BLJ_Broken"],
+    "verifier": "BLJ_Broken",
+    "verification": "www.youtube.com/watch?v=WBUYYyzwlfU",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+           
+        {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/watch?v=-0PWcCzGg-Y",
+      "hz": "60",
+      "percent": 100
+        },
+        {
+            "user": "Shnyuk",
+      "link": "https://www.youtube.com/watch?v=U0ffiZomOEY",
+      "hz": "60",
+      "percent": 100
+        },
+                {
+            "user": "potato1",
+      "link": "https://www.youtube.com/watch?v=Ta-LP4n4bKA",
+      "hz": "60",
+      "percent": 100
+        },
+        {
+            "user": "3ris",
+      "link": "https://www.tiktok.com/@3r1s5/video/7632717953359744287",
+      "hz": "60",
+      "percent": 100
+        },
+        {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "TheBridgerMC",
+        "link": "https://youtu.be/0-q9DFHDlsk?si=kxdQgwb_-5HU37QZ",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "Blessed",
+        "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498668847136247828",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "smelly bandi",
+        "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498668847136247828",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "nfa aose",
+        "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498668847136247828",
+            "hz": "60",
+            "percent": 100
+        },
+                {
+        "user": "vox",
+        "link": "https://www.youtube.com/watch?v=EYLfKEuxVl0",
+            "hz": "60",
+            "percent": 100
+        },
+                {
+        "user": "abredicegd",
+        "link": "https://www.youtube.com/watch?v=EYLfKEuxVl0",
+            "hz": "60",
+            "percent": 100
+                },
+                                {
+        "user": "enrique",
+        "link": "https://discord.com/channels/1420111313220403444/1504280894146609323/1504280894146609323",
+            "hz": "60",
+            "percent": 100
+                }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 138578353,
+    "name": "Ufo spam SCL",
+    "author": "Ape4ce",
+    "creators": ["Ape4ce"],
+    "verifier": "Ape4ce",
+    "verification": "https://youtu.be/5--43_GEXVE",
+    "percentToQualify": "100",
+    "password": "Carter Tapping/CBF",
+    "records": [
+    
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=PTtWlGXIs8U",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Carter Traywick",
+            "link": "https://youtu.be/gvz5PYmXnfM?si=UKBfIyQXHTflGG9Q",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/vGmE7faf_aY",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

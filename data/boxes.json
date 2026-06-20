@@ -1,0 +1,24 @@
+{
+    "id": 139495572,
+    "name": "Boxes",
+    " author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/5MrTUvuj7m8?si=d3YMU6TyHVCPMLGZ",
+    "percentToQualify": "100",
+    "password": "alternating/Cbf",
+    "records": [
+      {
+        "user": "AstroGuy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492806596743532674",
+        "hz": "300",
+        "percent": 100
+                                              },
+        {    
+            "user": "PowerGreen",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+      }
+    ]
+}

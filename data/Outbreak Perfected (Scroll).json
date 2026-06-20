@@ -1,0 +1,54 @@
+{
+    "id": 136559016,
+    "name": "Outbreak Perfected (Scroll)",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "PowerGreen",
+    "verification": "https://www.youtube.com/watch?v=dCQ6FmMXSVg",
+    "percentToQualify": "100",
+    "password": "Manual Scroll/CBF",
+   "records": [
+       {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/Qc84DBA0OiU",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+         },
+        {
+        "user": "G1rcy",
+        "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": "60",
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                      {
+        "user": "AngoPR",
+        "link": "https://youtu.be/Y6Q7MmUTFss?si=U0iTFmMxpUhaOxcS",
+        "hz": "CBF",
+        "percent": 100
+       },
+                      {
+        "user": "zeorixGD",
+        "link": "https://youtu.be/Y6Q7MmUTFss?si=U0iTFmMxpUhaOxcS",
+        "hz": "CBF",
+        "percent": 100
+                      }
+    ]
+}

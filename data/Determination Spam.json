@@ -1,0 +1,25 @@
+{
+    "id": 111882540,
+    "name": "Determination Spam",
+    "author": "Kirilowplay",
+    "creators": ["Ternasius, Kirilowplay"],
+    "verifier": "Kirilowplay",
+    "verification": "https://youtu.be/eS9z6n9UJIc",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+          },
+                {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=nSu7CTgPyl8&t=14s",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

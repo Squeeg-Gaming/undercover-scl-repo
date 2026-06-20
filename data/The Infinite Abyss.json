@@ -1,0 +1,19 @@
+{
+    "id":  139943880,
+    "name": "The Infinite Abyss",
+    "author": "CarterTraywick",
+    "creators": ["CarterTraywick"],
+    "verifier": "Sandwich",
+    "verification": "https://youtu.be/r6uxsh_impc?si=5dTSix01vcBVQRxD",
+    "percentToQualify": 100,
+    "password": "Geode Scroll/120FPS",
+    "records": [
+         
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}  

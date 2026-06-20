@@ -1,0 +1,60 @@
+{
+    "id": 139455238,
+    "name": "merk never clear",
+    "author": "merk12378",
+    "creators": [],
+    "verifier": "Itzrealmerk",
+    "verification": "https://youtu.be/JWBPzPw7VrM",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mEfHVPOmdi3Le9Pz1?invite=cr-MSxxajIsNDcyMzE5NTg3",
+            "percent": 100,
+            "hz": "CBF"
+        },
+            {
+            "user": "GroupNil",
+            "link": "https://medal.tv/games/geometry-dash/clips/mEfHVPOmdi3Le9Pz1?invite=cr-MSxxajIsNDcyMzE5NTg3",
+            "percent": 100,
+            "hz": "CBF"
+        },
+                    {
+            "user": "AngoPR",
+            "link": "https://youtu.be/bhNhXSsZaiQ?si=IYDK6VX_3wbpBEnf",
+            "percent": 100,
+            "hz": "CBF"
+         },
+                    {
+            "user": "Biniek",
+            "link": "https://youtu.be/bhNhXSsZaiQ?si=IYDK6VX_3wbpBEnf",
+            "percent": 100,
+            "hz": "CBF"
+                    },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "polar1s",
+            "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "hz": "CBF",
+            "percent": 100
+          },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                 },
+                    {    
+            "user": "Deniidk",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
+                                              }
+    ]
+}

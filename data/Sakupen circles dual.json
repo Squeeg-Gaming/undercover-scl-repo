@@ -1,0 +1,24 @@
+{
+    "id": 119186707,
+    "name": "Sakupen circles dual",
+    "author": "Shafikdabest",
+    "creators": [],
+    "verifier": "Shafikdabest",
+    "verification": "https://www.youtube.com/watch?v=tyRDXuxKUDk",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+    },
+        {
+            "user": "Yuji",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+    }
+    ]
+}

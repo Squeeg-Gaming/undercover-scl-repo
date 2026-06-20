@@ -1,0 +1,25 @@
+{
+    "id": 72129456,
+    "name": "Sum chal (K55)",
+    "author": "KaiGuy",
+    "creators": ["KaiGuy"],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=oiMhJC7piXQ",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "fps": 300,
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/IXbffNvYGZA?si=pwAJVKSZv5Kn1xgZ",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

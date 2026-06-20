@@ -1,0 +1,24 @@
+{
+"id": 137055231,
+"name": "The Redux of BBC",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, SomeDudeV3, Canela, Squeeg"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/uhJRaPks59g?si=cyPKiD3jRq5k8ULx",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [      
+        {
+            "user": "AngoPR",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "CBF",
+      "percent": 100
+        },
+                {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/shorts/SMUU5U3CpVw",
+      "hz": "CBF",
+      "percent": 100
+    }
+    ]
+}

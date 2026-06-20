@@ -1,0 +1,31 @@
+{
+    "id": 131372610,
+    "name": "Pal Legend BUFF",
+    "author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/7YxdtaDG6Ts",
+    "percentToQualify": "100",
+    "password": "Geode Scroll/240FPS",
+    "records": [
+        
+        {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "Delgado_yeet_404",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+         },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

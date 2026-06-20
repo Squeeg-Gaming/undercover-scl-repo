@@ -1,0 +1,31 @@
+{
+    "id": 124244956,
+    "name": "Roof but roof",
+    "author": "Angopr,Astralofy",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/TD9lTQc_Nq4?si=M9C4W01nhgpKbEOy",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+   "records": [
+      
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+       {
+        "user": "Astroguy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 60,
+            "percent": 100
+    },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+       }
+    ]
+}

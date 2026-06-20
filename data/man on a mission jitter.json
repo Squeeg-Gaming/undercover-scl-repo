@@ -1,0 +1,18 @@
+{
+    "id": 129799933,
+    "name": "Man on A Mission Jitter",
+    "author": "Squeeg",
+    "creators": ["Squeeg, Sum"],
+    "verifier": "LightningGD",
+    "verification": "https://www.youtube.com/watch?v=_b7nv0sBPa0",
+    "percentToQualify": 100,
+    "password": "Jitter/59FPS",
+    "records": [
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

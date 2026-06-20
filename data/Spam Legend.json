@@ -1,0 +1,43 @@
+{
+    "id": 64047984,
+    "name": "Spam Legend",
+    "author": "NXISE",
+    "creators": ["NXISE"],
+    "verifier": "NXISE",
+    "verification": "https://youtu.be/c3RATeMwuX8",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/sXB-UbFlgz0?si=IKfkpQddh-UdsrFS",
+            "percent": 100,
+            "hz": "60"
+       
+                },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+            },
+        {
+        "user": "TheRealDat",
+            "link": "https://www.youtube.com/watch?v=JyBZbmvjjXw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                                {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

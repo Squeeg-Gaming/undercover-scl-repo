@@ -1,0 +1,36 @@
+{
+    "id": 121369284,
+    "name": "Cataclysmic Deity",
+    "author": "ywuChaos",
+    "creators": ["Ggb0y", "ywuChaos"],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=04PvkxlO738",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=ciOMDc5rAcI&ab_channel=Paper2uy",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=3YHNSxm-CqY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=R6IrG5UBLeU",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Blendro",
+            "link": "https://youtu.be/6Lg9tmyIEEo",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

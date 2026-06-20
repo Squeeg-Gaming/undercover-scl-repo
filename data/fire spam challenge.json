@@ -1,0 +1,48 @@
+{
+    "id": 129749347,
+    "name": "fire spam challenge",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+    {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        },
+                       {
+        "user": "AngoPR",
+        "link": "https://youtu.be/NlizSJPe9ug?si=sqEnR7BGLJrzwITE",
+        "hz": "CBS",
+        "percent": 100
+        },
+                                              {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                         },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                              },
+                                                      {    
+            "user": "Biniek",
+            "link": "https://medal.tv/games/geometry-dash/clips/mM9zhEYkgTbRX7qWd?invite=cr-MSxvZzcsNTE5MTEyODAw&v=17",
+            "hz": "240",
+            "percent": 100
+                                              }
+    ]
+}

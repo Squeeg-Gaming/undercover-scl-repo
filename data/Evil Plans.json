@@ -1,0 +1,30 @@
+{
+    "id": 128289337,
+    "name": "Evil Plans",
+    "author": "Cookie498",
+    "creators": [],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=pAgDFdQH3p4",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+                {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/WJjExNa7TmE",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Realtoreeeeee",
+            "link": "https://www.youtube.com/watch?v=fpxRcWWJxks",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://youtu.be/HX0KdN8a2_Q",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

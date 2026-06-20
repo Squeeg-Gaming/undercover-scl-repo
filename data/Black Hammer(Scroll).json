@@ -1,0 +1,49 @@
+{
+    "id": 129245773,
+    "name": "Black Hammer(Scroll)",
+    "author": "Squeeg",
+    "creators": ["Squeeg, SomeDudeV3, idk__numb"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/WoPU-yaYEPk",
+    "percentToQualify": 96,
+    "password": "Scroll click/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Powergreen",
+            "link": "https://www.youtube.com/watch?v=PpfbXEwT80g",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                                                                          {
+            "user": "AngoPR",
+      "link": "https://youtu.be/1KAsJVRj4Qk?si=HbRCiJgJB670E9ce",
+      "hz": "CBF",
+      "percent": 100
+         },
+                                                                          {
+            "user": "zeorixGD",
+      "link": "https://youtu.be/1KAsJVRj4Qk?si=HbRCiJgJB670E9ce",
+      "hz": "CBF",
+      "percent": 100
+                                                                          }
+    ]
+}

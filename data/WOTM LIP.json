@@ -1,0 +1,30 @@
+{
+    "id": 128613232,
+    "name": "Wotm rt version (LIP SPAM)",
+    "author": "AngoPR",
+    "creators": ["AngoPR, Squeeg"],
+    "verifier": "Dan",
+    "verification": "https://youtu.be/BnSQRlApEko",
+    "percentToQualify": "100",
+    "password": "Lip Spam/CBF/Mobile",
+    "records": [
+                             {
+        "user": "AngoPR",
+        "link": "https://youtu.be/cwc03gyn5Bs?si=RX7T-wUNoQN1zfvn",
+        "hz": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
+        "percent": 100
+       },
+        {
+            "user": "shafikdabest",
+            "link": "shafikdabest",
+            "hz": 240,
+            "percent": 100
+                             },
+                                                          {
+            "user": "TheBridgerMC",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "60",
+            "percent": 100
+                }
+    ]
+}

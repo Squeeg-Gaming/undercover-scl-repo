@@ -1,0 +1,31 @@
+{
+    "id": 138073137,
+    "name": "sakupendenouementend",
+    "author": "Trist",
+    "creators": ["Trist"],
+    "verifier": "Trist",
+    "verification": "https://www.youtube.com/watch?v=k3IHlfcmgV4",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/OGcIxWIGEQE",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498700603746943028",
+            "hz": 240,
+            "percent": 100
+      },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/zd_8miMXGhM?si=mKIfE6ownWFWIPoA",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

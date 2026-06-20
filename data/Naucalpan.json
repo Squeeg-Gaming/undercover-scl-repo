@@ -1,0 +1,24 @@
+{
+    "id": 75636850,
+    "name": "Naucalpan",
+    "author": "Bleco327",
+    "creators": [],
+    "verifier": "LucaGMD",
+    "verification": "https://youtu.be/5RpqDxd8f60",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtu.be/vjrKKTCdZlM?si=TMC8QCQv2DbDjFzq",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/FjmWVG3-FJI?si=bNHxfGrBy5Sw21Yb&t=86",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": 63820938,
+    "name": "CROQUETA",
+    "author": "Needless",
+    "creators": ["Needless"],
+    "verifier": "PaperGuy",
+    "verification": "https://www.youtube.com/watch?v=oddwicJzLRA",
+    "percentToQualify": "100",
+    "password": "Uncapped Alternating/CBF",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=Iomxfu2wkPc",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/clip/UgkxGmVavgDIxLpezEzCHzqvSukH1x1pIkyY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mEnYPig2vFf2LZqSJ?invite=cr-MSxlaTgsNDcyMzE5NTg3",
+            "hz": "CBF",
+            "percent": 100
+       
+        }
+    ]
+}

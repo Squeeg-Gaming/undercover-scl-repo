@@ -1,0 +1,49 @@
+{
+    "id": 135292711,
+    "name": "Alex spam 2",
+    "author": "Dan",
+    "creators": ["Dan"],
+    "verifier": "Dan",
+    "verification": "https://www.youtube.com/watch?v=Zqa2mgjbOIM",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+       
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                                                                   },
+        {    
+            "user": "apud111",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                                           },
+                        {    
+            "user": "zod",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100  
+       },
+                        {    
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                          },
+                        {    
+            "user": "_weretin_",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                        },
+                        {    
+            "user": "ZeorixGD",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "240",
+            "percent": 100
+                        }
+                                                  ]
+}

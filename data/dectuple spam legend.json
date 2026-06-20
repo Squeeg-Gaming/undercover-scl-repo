@@ -1,0 +1,18 @@
+{
+    "id": 106814012,
+    "name": "Dectuple Spam Legend",
+    "author": "UFWM, Nucleus",
+    "creators": [],
+    "verifier": "Redacted",
+    "verification": "https://www.youtube.com/watch?v=l38VnqlDJu4",
+    "percentToQualify": "100",
+    "password": "Alternating/Altjitter/Ludwig/60FPS",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=WpooOoA_Zg0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

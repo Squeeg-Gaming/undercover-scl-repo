@@ -1,0 +1,19 @@
+{
+    "id": 124195009,
+    "name": "skc spam buff alternating",
+    "author": "Shafikdabest",
+    "creators": [],
+    "verifier": "Shafikdabest",
+    "verification": "https://youtu.be/B16pYnWMDSQ",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+     
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

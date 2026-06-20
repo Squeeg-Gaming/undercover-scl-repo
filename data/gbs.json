@@ -1,0 +1,37 @@
+{
+    "id": 123346980,
+    "name": "Garbanzo but sakupen",
+    "author": "Angopr",
+    "creators": ["Angopr"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/EXHw6OlhVvU?si=EnfnWAWpBb7OeI8P",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+   "records": [
+        
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=2mJEEtTEpuo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=2mJEEtTEpuo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

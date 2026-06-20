@@ -1,0 +1,42 @@
+{
+    "id": 113043695,
+    "name": "SakupenDynamix spam",
+    "author": "pixelfactorial",
+    "creators": ["Nick24"],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g&t=41s",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/gWVxgPL04aI",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/-Es8WJq4cvY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc",
+            "hz": "CBF",
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

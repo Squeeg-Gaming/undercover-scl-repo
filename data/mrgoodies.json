@@ -1,0 +1,24 @@
+{
+    "id": 107444203,
+    "name": "Unnerfed Everyone Never Clear",
+    "author": "Carter Traywick",
+    "creators": ["Carter Traywick"],
+    "verifier": "Carter Traywick",
+    "verification": "https://youtu.be/m_Fpq7l7bnY?si=oJcW_qTKTC8N-pbr",
+    "percentToQualify": 100,
+    "password": "Manual Scroll/CBF",
+    "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/uhJRaPks59g?si=d81g_nOGcVhdQBvN",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+        "user": "Sandwich",
+        "link": "https://youtu.be/reZXTvozlmo",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

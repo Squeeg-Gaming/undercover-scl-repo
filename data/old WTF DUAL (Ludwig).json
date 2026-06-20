@@ -1,0 +1,18 @@
+{
+    "id": 112959283,
+    "name": "old WTF DUAL (Ludwig)",
+    "author": "MM9000",
+    "creators": ["MM9000"],
+    "verifier": "JeDoesStuff",
+    "verification": "https://www.youtube.com/watch?v=Ezk-Snm4r60",
+    "percentToQualify": "100",
+    "password": "Ludwig/CBF",
+    "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

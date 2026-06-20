@@ -1,0 +1,24 @@
+{
+    "id": 140045351,
+    "name": "Easiest spam oat x2",
+    " author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/lHts4UipAKU?si=w3XwIqsEn-5p17Z_",
+    "percentToQualify": "100",
+    "password": "alternating/60fps",
+    "records": [
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/svf7iOavEeY",
+            "percent": 100,
+            "hz": 60
+      },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 124701688,
+    "name": "Q1JJA4ZLO",
+    "author": "ttsum",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=FvhioqjMPOo",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=KxBda-UpqEo",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "meow24",
+        "link": "https://www.youtube.com/watch?v=GoNY0IsWkl8",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1494786795580162271",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "id": 95689629,
+    "name": "redragonGriffinLunar",
+    "author": "Pastelliano",
+    "creators": [],
+    "verifier": "Pastelliano",
+    "verification": "https://www.youtube.com/watch?v=y_IfpXh-bIU",
+    "percentToQualify": "100",
+    "password": "Alternating/64FPS",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=qD9GLCYqUnE&ab_channel=PaperGuy",
+        "hz": 64,
+        "percent": 100
+        },
+      {
+      "user": "loooookkk",
+      "link": "https://youtu.be/FnYQdJ3AcSM",
+      "hz": "64",
+      "percent": 100
+      },
+        {
+         "user": "ywuChaos",
+         "hz": "64",
+         "percent": 100,
+         "link": "https://youtu.be/lkLe1Hvzcy8"
+        },
+                {
+         "user": "F1erzza",
+         "hz": "64",
+         "percent": 100,
+         "link": "https://youtu.be/pFVcxq04Wx8"
+        
+          },
+                {
+         "user": "AstroGuy",
+         "hz": "64",
+         "percent": 100,
+         "link": "https://youtu.be/pFVcxq04Wx8"
+        
+                        }
+    ]
+}

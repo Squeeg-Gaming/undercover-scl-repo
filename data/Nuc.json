@@ -1,0 +1,30 @@
+{
+    "id": 115899732,
+    "name": "Nuc",
+    "author": "aelzfr",
+    "creators": ["ywuChaos"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=Q0DDDQoSmpA",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/TgVSq7Bakuk",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ShayPlaz",
+            "link": "https://thenewrakelist.squeeg-squeeg.workers.dev/",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 134200562,
+    "name": "Not Easy R",
+    "author": "frzy42",
+    "creators": ["frzy42"],
+    "verifier": "TheBridgerMC",
+    "verification": "https://youtu.be/jdl5GDPJ_zk",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+      
+                       {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

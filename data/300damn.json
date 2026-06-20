@@ -1,0 +1,30 @@
+{
+    "id": 137697932,
+    "name": "300 damn",
+    "author": "jostgmd",
+    "creators": [],
+    "verifier": "jost",
+    "verification": "https://www.youtube.com/watch?v=Re5Mf_xZ2bQ",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "tFluffy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492806596743532674",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 130122396,
+    "name": "robot 50cps level",
+    "author": "AngoPR",
+    "creators": ["AngoPR, SomeDudeV3"],
+    "verifier": "AngoPR",
+    "verification": "https://www.youtube.com/watch?v=WNfrBlSoABI",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "id": 115502765,
+    "name": "Goober Pepino",
+    "author": "JeDoesStuff",
+    "creators": ["JeDoesStuff"],
+    "verifier": "JeDoesStuff",
+    "verification": "https://www.youtube.com/watch?v=WdljkKZIP68&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "percentToQualify": 100,
+    "password": "Alterjitter/Ludwig/CBF",
+    "records": [
+        {
+                "user": "IsntAdam",
+        "link": "https://youtu.be/lyqQAiLUNrE?si=oDJxzUpbo885dIiF",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "GMDMIRROR",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "F1erzza",
+        "link": "https://youtu.be/UEh1rYgTzY4?si=F-ONZp0OFQMMAb6E",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Squeeg",
+        "link": "https://discord.com/channels/1420111313220403444/1420111314847666280/1507874429667905768",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

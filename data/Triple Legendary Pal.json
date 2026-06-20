@@ -1,0 +1,30 @@
+{
+    "id": 132835132,
+    "name": "Triple Legendary Pal",
+    "author": "MrArmYT",
+    "creators": ["JeDoesStuff, MrArmYT"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/bsnMgFOIj8I",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                        {
+            "user": "Angopr",
+            "link": "https://youtu.be/AwHG7BPs92I?si=7zty5IC3ouwRmfEE",
+            "percent": 100,
+            "hz": 60
+        },
+                                                {
+            "user": "GMDMIRROR",
+            "link": "https://youtu.be/nZbBm-2dvRs",
+            "percent": 100,
+            "hz": 60
+        },
+                                                {
+            "user": "RedBerylGD",
+            "link": "https://youtu.be/nZbBm-2dvRs",
+            "percent": 100,
+            "hz": 60
+                                                }
+    ]
+}

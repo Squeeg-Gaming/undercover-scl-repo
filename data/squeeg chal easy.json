@@ -1,0 +1,18 @@
+{
+    "id": 137191168,
+    "name": "Squeeg Chal Easy",
+    "author": "Sandwich",
+    "creators": ["BLJ_Broken, Sandwich"],
+    "verifier": "Sandwich",
+    "verification": "https://youtu.be/zLyhKzO2DHE",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/IqIJO10gHO8",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}

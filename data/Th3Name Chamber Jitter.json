@@ -1,0 +1,18 @@
+{
+    "id": 77352773,
+    "name": "Th3Name Chamber Jitter",
+    "author": "Th3Name",
+    "creators": ["Th3Name"],
+    "verifier": "OmorGD",
+    "verification": "https://www.youtube.com/watch?v=QwTJ-RRCWyM",
+    "percentToQualify": "100",
+    "password": "Jitter/60FPS",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=J4ACecSdekg",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

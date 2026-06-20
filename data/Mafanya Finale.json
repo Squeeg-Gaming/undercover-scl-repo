@@ -1,0 +1,18 @@
+{
+    "id": 122631484,
+    "name": "Mafanya Finale",
+    "author": "fluget",
+    "creators": ["fluget"],
+    "verifier": "Frozix",
+    "verification": "https://www.youtube.com/watch?v=nSQACwceZg0",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+   "records": [
+{
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+   ]
+}

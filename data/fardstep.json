@@ -1,0 +1,47 @@
+{
+    "id": 69227013,
+    "name": "Fardstep",
+    "author": "SumRandomDude",
+    "creators": ["JoinMolten"],
+    "verifier": "Ray131",
+    "verification": "https://youtu.be/NsiOGyLa42k",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "hz": 60,
+            "link": "https://youtu.be/Qy-IXSd8i8k?si=MTDvcI0LCs3DpmrQ",
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=JYVy3KYQRzk",
+            "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "hz": 60,
+        "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "hz": 60,
+            "link": "https://www.youtube.com/watch?v=Iomxfu2wkPc",
+            "percent": 100
+        },
+        {
+        "user": "loooookkk",
+        "link": "https://youtu.be/-m8VcZnAdzc?si=n2Ds-MQJbkLvsB3A&t=190",
+            "hz": 60,
+            "percent": 100
+         },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/9LqZZJGgI3E",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

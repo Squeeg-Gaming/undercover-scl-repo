@@ -1,0 +1,36 @@
+{
+    "id": 113723864,
+    "name": "uzi work",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=opENak49aZc",
+    "percentToQualify": "100",
+    "password": "Alternating/59FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/gw4FZy_aDXg",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/oB3wgj6UW3s",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/aJyT9VomyVU?si=ufjZPzQZzyjajbj4&t=65",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/aJyT9VomyVU?si=ufjZPzQZzyjajbj4&t=65",
+            "percent": 100,
+            "hz": 59
+        }
+    ]
+}

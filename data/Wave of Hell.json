@@ -1,0 +1,73 @@
+{
+    "id": 63579980,
+    "name": "Wave of Hell",
+    "author": "JoinMolten",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=Liu1s_zOkzE",
+    "percentToQualify": "100",
+    "password": "Alternating/240FPS/CBF",
+    "records": [
+                      {
+            "user": "Cyber<3<3",
+            "link": "https://medal.tv/games/geometry-dash/clips/moUdmAsmer6ayeMIp?invite=cr-MSw0SDgsMjY2OTY3NjY0&v=10",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+        
+        },
+                        {
+        "user": "AngoPR",
+        "link": "https://youtu.be/kFm1OZqxeDA?si=Ow66z3ZqTx1jQkXN",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+                        "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=pl4vC7RN7rs",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 240,
+            "percent": 100
+    },
+    {
+        "user": "Shnyuk",
+            "link": "https://youtu.be/66SxYI_rALE?si=TA51SkcXrnwqpmjs",
+            "hz": 240,
+            "percent": 100
+    },
+    {
+        "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210",
+            "hz": 240,
+            "percent": 100
+    },
+    {
+        "user": "Astrxyyz",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210",
+            "hz": 240,
+            "percent": 100
+    },
+    {
+        "user": "VorickGMD",
+            "link": "https://www.youtube.com/watch?v=_zdOfjVlF5k",
+            "hz": 240,
+            "percent": 100
+    },
+                                 {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

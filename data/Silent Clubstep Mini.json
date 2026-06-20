@@ -1,0 +1,31 @@
+{
+    "id": 136717780,
+    "name": "Silent Clubstep Mini",
+    "author": "EpicPotatoesGMD",
+    "creators": ["EpicPotatoesGMD"],
+    "verifier": "EpicPotatoesGMD",
+    "verification": "https://www.youtube.com/watch?v=J1s41VoFwr8",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/605mHZPWVms",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/605mHZPWVms",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

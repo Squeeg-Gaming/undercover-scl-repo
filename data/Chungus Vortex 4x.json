@@ -1,0 +1,20 @@
+{
+    "id": 64908917,
+    "name": "Chungus Vortex 4x",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "BONEFRAG",
+    "verification": "https://www.youtube.com/watch?v=13Zu1AePZHw",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "description": "GG 193",
+    "records": [
+        
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

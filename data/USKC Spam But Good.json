@@ -1,0 +1,19 @@
+{
+    "id": 127644708,
+    "name": "USKC Spam But Good",
+    "author": "AllOnRed777",
+    "creators": [],
+    "verifier": "AllOnRed777",
+    "verification": "https://www.youtube.com/watch?v=T0sWDu2Op2U",
+    "percentToQualify": "100",
+    "password": "Alternating//CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/xbdjeqevClM",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

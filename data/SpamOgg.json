@@ -1,0 +1,21 @@
+{
+    "id": 126035791,
+    "name": "SpamOgg",
+    "author": "TypicalTieran",
+    "creators": [],
+    "verifier": "sandwich",
+    "verification": "https://youtu.be/gkeztfgFHvc",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+   
+
+         
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ttV96RgVk8I",
+            "hz": "120",
+            "percent": 100
+        }
+    ]
+}

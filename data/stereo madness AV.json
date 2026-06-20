@@ -1,0 +1,18 @@
+{
+    "id": 124819786,
+    "name": "stereo madness AV",
+    "author": "aelzfr",
+    "creators": ["aelzfr"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/-EJClo5Tz34",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

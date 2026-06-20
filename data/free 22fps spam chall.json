@@ -1,0 +1,55 @@
+{
+    "id": 93807319,
+    "name": "free 22fps spam chall",
+    "author": "ObeyMiniNinja00",
+    "creators": ["ObeyMiniNinja00"],
+    "verifier": "ObeyMiniNinja00",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g",
+    "percentToQualify": 100,
+    "password": "Alternating/22fps",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/yBJdWzdevFo?si=_Hi6YOph_PBITjYi",
+            "percent": 100,
+            "hz": "CBF"
+       
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/WtQ4Z58hRjA",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "shafikdabest",
+        "link": "idk where link is",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "https://youtu.be/p7fltIuBhVI",
+        "link": "https://youtu.be/p7fltIuBhVI",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Delgado_yeet_404",
+        "link": "https://youtu.be/yXz4lapyhDg",
+        "hz": "22",
+        "percent": 100
+        },
+                {
+            "user": "AP-Marsfr",
+            "link": "https://discord.com/channels/1420111313220403444/1500580316107247757/1500581172453839090",
+            "hz": "CBF",
+            "percent": 100
+                           },
+        {    
+            "user": "capitanb0ber",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                }
+    ]
+}

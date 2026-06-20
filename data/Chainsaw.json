@@ -1,0 +1,31 @@
+{
+    "id": 65719547,
+    "name": "Chainsaw",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=rE7OmE8bNgU",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://www.youtube.com/watch?v=zfEzrh1_4yw",
+            "hz": 60,
+            "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mcrmwgyAcq-qqLThO?invite=cr-MSxDZkcsNDcyMzE5NTg3",
+            "hz": 60,
+            "percent": 100
+       
+        }
+    ]
+}

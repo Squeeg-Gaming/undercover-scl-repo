@@ -1,0 +1,60 @@
+{
+    "id": 95091199,
+    "name": "meowpau chal easy",
+    "author": "Me24345",
+    "creators": ["Nick24", "Me24345"],
+    "verifier": "meow24",
+    "verification": "https://youtu.be/1xFzcg8btTU?si=bmMyBfKDtWQ0ni2K",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+  "records": [
+        {
+         "user": "galbeni7",
+         "link": "https://www.youtube.com/live/w4SGS4R4VKQ?si=Hhjqd5NIFubOyidQ&t=1740",
+         "hz": "CBF",
+         "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": "CBF",
+            "link": "https://www.youtube.com/watch?v=Ifyk_yGKTHI",
+            "percent": 100
+        },
+        {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=RINiqPOx0II",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/sYlM-U2RWxw?si=mHVtUTM8G2t6HAl6&t=1934",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FR2SbfRIDlk?si=fTyUg7rwLd429CRN&t=333",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=a8RQvInLpkg&ab_channel=Paper2uy",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/T8XjgtVhD2Q",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/57VymVu9090?si=bl0lsElgSMZrc7jw&t=185",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

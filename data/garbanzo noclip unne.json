@@ -1,0 +1,43 @@
+{
+    "id": 77183050,
+    "name": "garbanzo noclip unne",
+    "author": "MM9000",
+    "creators": [],
+    "verifier": "LucaGMD",
+    "verification": "https://youtu.be/-eqJb21Fmm4",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "fps": "CBF",
+    "records": [
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=WE6fgOHwEms",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "GMDMIRROR",
+            "link": "https://youtube.com/shorts/OkeinnfIL5E?si=DdYSpe6oBYTuu-OM",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/FjmWVG3-FJI?si=bNHxfGrBy5Sw21Yb&t=10",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Xed",
+            "link": "https://www.youtube.com/shorts/sLjw3XrLLUY",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=S_pT_9u3DVQ",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

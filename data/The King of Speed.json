@@ -1,0 +1,18 @@
+{
+    "id": 93409476,
+    "name": "The King of Speed",
+    "author": "JeDoesStuff",
+    "creators": ["JeDoesStuff"],
+    "verifier": "JeDoesStuff",
+    "verification": "https://www.youtube.com/watch?v=Jy37Qe1XPZk",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/Omnijitter/102FPS",
+    "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 138504205,
+    "name": "Osteo Striga",
+    "author": "Xed",
+    "creators": ["Xed"],
+    "verifier": "Xed",
+    "verification": "https://www.youtube.com/watch?v=RH8eGYiJmDw",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/Omnijitter/CBF",
+    "records": [
+               {
+            "user": "GMDMIRROR",
+            "link": "https://www.youtube.com/watch?v=aRvoq4IWwYE&t=9s",
+            "hz": 240,
+            "percent": 100
+         },
+                                              {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/TCBeoQrwgrI",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

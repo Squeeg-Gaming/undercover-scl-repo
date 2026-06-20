@@ -1,0 +1,25 @@
+{
+    "id": 68546013,
+    "name": "for th3name",
+    "author": "Th3Name",
+    "creators": [],
+    "verifier": "Th3name",
+    "verification": "https://www.youtube.com/watch?v=yj0kHtEJ7kA",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=07SFvvJSJ7A",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mvpPORRdoJzPVwjit?invite=cr-MSxyY3gsNDcyMzE5NTg3",
+            "hz": 60,
+            "percent": 100
+        
+        }
+    ]
+}

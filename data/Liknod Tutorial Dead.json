@@ -1,0 +1,30 @@
+{
+    "id": 129148099,
+    "name": "Liknod Tutorial Dead",
+    "author": "zFrozix",
+    "creators": [],
+    "verifier": "Frozix", 
+    "verification": "https://www.youtube.com/watch?v=Ouja4wAOml0",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/Omnijitter/CBF",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/shorts/evJbobfRBk0",
+        "hz": "CBF",
+        "percent": 100
+                             },
+        {
+        "user": "shafikdabest",
+        "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

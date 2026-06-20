@@ -1,0 +1,19 @@
+{
+    "id": 125370216,
+    "name": "Unnerfed Isnt Adam Never Clea",
+    "author": "JustAnUnknown",
+    "creators": ["JustAnUnknown"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=NpYgDSh99r8",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

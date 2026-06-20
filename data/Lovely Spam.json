@@ -1,0 +1,24 @@
+{
+    "id": 127709919,
+    "name": "Lovely Spam",
+    "author": "ILoveLilies",
+    "creators": ["ILoveLilies"],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=yMNeA6nbP_I",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=xhben7txBk8&t=1001s",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/57VymVu9090?t=79",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

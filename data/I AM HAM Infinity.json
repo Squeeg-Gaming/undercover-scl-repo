@@ -1,0 +1,27 @@
+{
+    "id": 137198039,
+    "name": "I AM HAM Infinity",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "sandwich",
+    "verification": "https://youtu.be/GXtv6rKM3io",
+    "percentToQualify": 100,
+    "password": "Alternating/64FPS",
+    "records": [
+       
+   
+        {
+            "user": "antonn",
+            "link": "https://www.youtube.com/watch?v=le4EjC6prbE",
+            "hz": 240,
+            "percent": 100
+         },
+       {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/ttV96RgVk8I",
+        "hz": "240",
+        "percent": 100
+        }
+        
+    ]
+}

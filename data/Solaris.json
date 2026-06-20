@@ -1,0 +1,26 @@
+{
+    "id": 136702295,
+    "name": "Solaris",
+    "author": "Sandwich",
+    "creators": ["Sandwich"],
+    "verifier": "shafikdabest",
+    "verification": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+       
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498668625777786890",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498668625777786890",
+            "hz": 240,
+            "percent": 100
+        }
+    
+    ]
+}

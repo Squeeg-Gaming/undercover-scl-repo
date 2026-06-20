@@ -1,0 +1,25 @@
+{
+    "id": 65234436,
+    "name": "Bioody Guy",
+    "author": "zHowie",
+    "creators": [],
+    "verifier": "Xnor",
+    "verification": "https://www.youtube.com/watch?v=Yzon4AF-lV8",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS/240FPS/CBF",
+    "records": [
+                             {
+        "user": "AngoPR",
+        "link": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
+        "hz": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
+        "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+      
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "id": 124800714,
+    "name": "Half second spam",
+    "author": "Angopr",
+    "creators": ["Angopr,Nucleus"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/fWzScFcKZ_U?si=nFmoU8vQGSXJD7B-",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+   "records": [
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        
+        },
+       {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 60,
+            "percent": 100
+    },
+       {
+        "user": "Squeeg",
+        "link": "https://youtu.be/_5GNYa_v6qE?si=jjALSesA8OHELiAR",
+        "hz":60,
+        "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+      },
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1499681259993956422",
+            "hz": 240,
+            "percent": 100
+                                         },
+                        {    
+            "user": "Gonzalinis",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+        },
+                                            {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "60",
+            "percent": 100
+                        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 124710601,
+    "name": "GARBANZOOOOO (K55)",
+    "author": "babseed",
+    "creators": ["Needless", "V453C70M14", "aelzfr"],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/LGSE4S9mmFs",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "9tn",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1458209538149978195",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1467494080488669389",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1494456669743091914",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

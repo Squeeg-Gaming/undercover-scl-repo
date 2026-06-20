@@ -1,0 +1,18 @@
+{
+    "id": 115134003,
+    "name": "Angler Fish",
+    "author": "aelzfr",
+    "creators": ["aelzfr"],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=aLn6Obe-Xo4",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

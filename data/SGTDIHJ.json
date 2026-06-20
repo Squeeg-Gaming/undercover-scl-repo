@@ -1,0 +1,30 @@
+{
+    "id": 132443092,
+    "name": "Shitty GoToDefault In Hell(Jitter)",
+    "author": "DelgadoYeet404",
+    "creators": ["Russian Guy"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/EE14Y2nSEGo?si=vr9kAYjvSqWEslKu",
+    "percentToQualify": 100,
+    "password": "Jitter/240",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 240,
+            "percent": 100
+            },
+        {
+            "user": "aferix",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

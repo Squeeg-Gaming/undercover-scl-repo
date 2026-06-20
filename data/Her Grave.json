@@ -1,0 +1,18 @@
+{
+    "id": 140052361,
+    "name": "Her Grave",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://youtu.be/LbdSchG80nQ",
+    "percentToQualify": "100",
+    "password": "Steveharveytapping/CBF",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/IqIJO10gHO8",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}

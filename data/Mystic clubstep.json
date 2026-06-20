@@ -1,0 +1,24 @@
+{
+    "id": 64159286,
+    "name": "Mystic clubstep no a",
+    "author": "Needless",
+    "creators": ["Needless"],
+    "verifier": "Needless",
+    "verification": "https://youtu.be/uhJRaPks59g",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "JoinMolten",
+            "link": "https://youtu.be/6UM9FOkqjy4?t=143",
+            "hz": "360",
+            "percent": 100
+         },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}  

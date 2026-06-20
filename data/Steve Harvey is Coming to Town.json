@@ -1,0 +1,18 @@
+{
+    "id": 140051781,
+    "name": "Steve Harvey is Coming to Town",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://youtu.be/LbdSchG80nQ",
+    "percentToQualify": "100",
+    "password": "Steveharveytapping/CBF",
+    "records": [
+         {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

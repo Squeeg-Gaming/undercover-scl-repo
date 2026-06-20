@@ -1,0 +1,42 @@
+{
+"id": 136420814,
+"name": "Wrath of The Cuck",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, Squeeg"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/nMbKn7DpREM",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+                                       {
+            "user": "AngoPR",
+            "link": "https://youtu.be/0zfTVTrhaZg?si=M6nelQ21JkGrl7iv",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        },
+            {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/YYuGwbL3jWU",
+            "hz": 360,
+            "percent": 100
+       },
+            {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/VtsiwRomCKs?si=Ga_ot9ePhawIp6xJ",
+            "hz": 360,
+            "percent": 100
+            },
+                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=SHGoPHXfyco",
+            "hz": 360,
+            "percent": 100
+            }
+    ]
+}

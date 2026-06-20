@@ -1,0 +1,66 @@
+{
+    "id": 116552592,
+    "name": "Jade Corridor",
+    "author": "babseed",
+    "creators": ["Cookie498, EmpanadR"],
+    "verifier": "galbeni7",
+    "verification": "https://www.youtube.com/watch?v=73djH9NUsrI",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=UjxY09qutKE",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/FrLn2yuUwik",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=EsJl48-Dd1Y",
+            "hz": "CBF",
+            "percent": 100
+        },      
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/clip/Ugkx1myRkyShG9pWuJQPercigFftsAZXsRIB",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=Mt7WX2sihkY",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Blendro",
+            "link": "https://www.youtube.com/watch?v=Fwx4LSG9zBM",
+            "percent": 100,
+            "hz": "CBF"
+        },      
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/clip/Ugkx1myRkyShG9pWuJQPercigFftsAZXsRIB",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

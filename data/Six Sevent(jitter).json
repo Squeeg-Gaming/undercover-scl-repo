@@ -1,0 +1,31 @@
+{
+    "id": 125410289,
+    "name": "Six Sevent(jitter)",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/Oum15gTIAx0",
+    "percentToQualify": 100,
+    "password": "jitter/240",
+    "records": [
+    
+        {
+            "user": "shafikdabest",
+            "link": "https://discord.com/channels/1420111313220403444/1497652472938758154",
+            "hz": 250,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "Sebs478",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

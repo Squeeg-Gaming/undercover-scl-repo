@@ -1,0 +1,48 @@
+{
+    "id": 63260892,
+    "name": "Da Spam",
+    "author": "Needless",
+    "creators": ["Needless"],
+    "verifier": "BONEFRAG",
+    "verification": "https://www.youtube.com/watch?v=jOd5ZzOBUsE",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "Sandwich",
+        "link": "https://youtu.be/reZXTvozlmo",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "AP-Marsfr",
+            "link": " https://youtube.com/shorts/4r7Onnx09yg?si=UaBcI9K699osmcvd",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "aferix",
+            "link": "https://medal.tv/games/geometry-dash/clips/mD7stVpsBQIMdaHwW?invite=cr-MSxkTHQsMzk3ODA2MzA5",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ZeorixGD",
+            "link": "https://www.youtube.com/watch?v=u69IWpE3fL0",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

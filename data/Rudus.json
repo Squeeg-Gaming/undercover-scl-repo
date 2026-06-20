@@ -1,0 +1,24 @@
+{
+    "id": 137395870,
+    "name": "Rudus",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/jWfbU75nl44",
+    "percentToQualify": "100",
+    "password": "Jitter/240",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=8nsZbCVune2Dlq3T",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

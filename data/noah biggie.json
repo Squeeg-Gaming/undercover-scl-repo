@@ -1,0 +1,18 @@
+{
+    "id": 133012376,
+    "name": "Noah Can Biggie Smalls",
+    "author": "DelgadoYeet404",
+    "creators": ["Delgado_Yeet_404, SomeDudeV3, Canela"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/ZY-rBfLVizk",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/240/NO RT",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://youtu.be/uhJRaPks59g?si=gb59IzXZpNFI4JmV",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

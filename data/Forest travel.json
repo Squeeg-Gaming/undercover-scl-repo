@@ -1,0 +1,31 @@
+{
+    "id": 139628734,
+    "name": "Forest travel",
+    "author": "DelgadoYeet404",
+    "creators": ["Squeeg, DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/rJ1EP_dZSaQ",
+    "percentToQualify": 100,
+    "password": "Altjitter/240",
+    "records": [
+    
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100 
+        },
+                                    {
+            "user": "AngoPR",
+      "link": "https://discord.com/channels/1420111313220403444/1501974650534629447/1501974650534629447",
+      "hz": "CBF",
+      "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+                                    }
+            ]
+}

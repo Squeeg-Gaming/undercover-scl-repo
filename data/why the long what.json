@@ -1,0 +1,31 @@
+{
+    "id": 63180634,
+    "name": "why the long what",
+    "author": "UFokinWotM8",
+    "creators": ["UFokinWotM8"],
+    "verifier": "Needless",
+    "verification": "https://www.youtube.com/watch?v=-beI1xzW4lw",
+    "percentToQualify": "100",
+    "password": "Alternating/59FPS",
+   "records": [
+        {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+        "hz": "59",
+        "percent": 100
+        },
+        {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=nVGDYNyNjDk",
+        "hz": "59",
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://medal.tv/games/geometry-dash/clips/mp4aJhluz4KoM0VHo?invite=cr-MSw0WHAsNDcyMzE5NTg3",
+        "hz": "59",
+        "percent": 100
+       
+        }
+    ]
+}

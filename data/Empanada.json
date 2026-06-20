@@ -1,0 +1,25 @@
+{
+    "id": 65743624,
+    "name": "Empanada",
+    "author": "zLunarGD",
+    "creators": [],
+    "verifier": "mangosa",
+    "verification": "https://www.youtube.com/watch?v=amkPxyWgJnM",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": 60,
+            "percent": 100
+        
+        },
+        {
+            "user": "ManiaGTC",
+            "link": "https://medal.tv/games/geometry-dash/clips/lh6yCv3fRfgFkl9Mi?invite=cr-MSw3bWksNDEwMjMwNTcy",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+"id": 132574406,
+"name": "Mr.Joe Never Clear",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, SomedudeV3, Canela"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/1Ta2H3cYYws?si=7PJ7AwwxBgiKp7lH",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+                            {
+            "user": "AngoPR",
+            "link": "https://youtu.be/6GAmSD-GYOg",
+            "percent": 100,
+            "hz": 240
+        },
+                                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": 133013050,
+    "name": "Golden The PSAT",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404, Canela, SomedudeV3"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/qooUAc8VbPs?si=XS-P-AyoRhCbJa54",
+    "percentToQualify": 100,
+    "password": "AltJitter/Ludwig/CBF/No RT",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+       },
+                      {
+            "user": "jeysce",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+        },
+                              {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/boRa3aODC-0",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

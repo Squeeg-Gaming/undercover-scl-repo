@@ -1,0 +1,24 @@
+{
+    "id": 140168937,
+    "name": "Tower Of Looping void",
+    "author": "Squeeg,Angopr",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/nc9Ca3_ePQk?si=1RowHP-COkFjGVUG",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+         {
+            "user": "Squeeg",
+            "link": "https://youtube.com/live/qsULRwDB7vU",
+            "percent": 100,
+            "hz": 240
+         },
+                {
+            "user": "ShayPlaz",
+            "link": "https://youtu.be/wRIC2w7Z4Ks?si=Efj0tZhTGs8_1ZUV",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

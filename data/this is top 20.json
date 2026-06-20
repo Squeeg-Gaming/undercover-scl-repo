@@ -1,0 +1,24 @@
+{
+    "id": 95182531,
+    "name": "this is top 20",
+    "author": "SpaceZooka",
+    "creators": ["Krixic"],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=lTlJ7T2O_MI",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917977329176806",
+        "hz": "300",
+        "percent": 100
+        },
+            {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100 
+        }
+    ]
+}

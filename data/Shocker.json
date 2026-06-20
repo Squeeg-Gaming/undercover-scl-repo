@@ -1,0 +1,18 @@
+{
+    "id": 140804880,
+    "name": "Shocker",
+    "author": "Delgado_yeet_404",
+    "creators": [],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/DFWAJAhGpk8",
+    "percentToQualify": 100,
+    "password": "Ludwig/Altjitter/CBF",
+    "records": [
+     {
+                "user": "Squeeg",
+            "link": "https://www.youtube.com/live/HaPEy-48-eE",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

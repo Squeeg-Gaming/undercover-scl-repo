@@ -1,0 +1,32 @@
+{
+    "id": 66254560,
+    "name": "Triple Spam Legend",
+    "author": "BensonGD",
+    "creators": ["UFokinWotM8, NXISE, BensonGD"],
+    "verifier": "BensonGD",
+    "verification": "https://www.youtube.com/watch?v=TfQIXYc97_E&t=1s",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "description": "I BEAT IT I BEAT IT THE HARDEST SPAM CHALLENGE!!!!!1111",
+    "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://www.youtube.com/watch?v=BiLXEYobKyU",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=ZlXg2cfs2Wo",
+            "hz": 60,
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mE1ZWRBLxezdkjBqr?invite=cr-MSxud3EsNDcyMzE5NTg3",
+            "hz": 60,
+            "percent": 100
+        
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 129052563,
+    "name": "What The K55",
+    "author": "AllOnRed777",
+    "creators": ["UFokinWotM8"],
+    "verifier": "AllOnRed",
+    "verification": "https://www.youtube.com/watch?v=me04HmuwZ10",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1459248661933326377",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1467586430179217500",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

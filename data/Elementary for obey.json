@@ -1,0 +1,36 @@
+{
+    "id": 95503345,
+    "name": "Elementary for obey",
+    "author": "ObeyMiniNinja",
+    "creators": ["ObeyMiniNinja"],
+    "verifier": "ObeyMiniNinja",
+    "verification": "https://www.youtube.com/watch?v=6o-awL7x2Kc",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+         { 
+      "user": "FaizanGMD",
+      "link": "https://www.youtube.com/watch?v=YDMtAn9C9g0",
+      "percent": 100,
+       "hz": "360"
+     },
+           { 
+      "user": "LucyIsSilly",
+      "link": "https://www.youtube.com/watch?v=NG0tGTBRCtw",
+      "percent": 100,
+       "hz": "360"
+     },
+           { 
+      "user": "AstroGuy",
+      "link": "https://www.youtube.com/watch?v=NG0tGTBRCtw",
+      "percent": 100,
+       "hz": "360"
+           },
+        { 
+      "user": "Grape",
+      "link": "https://medal.tv/games/geometry-dash/clips/mIBLrSrpS--R1mHE7?invite=cr-MSxORlosMzk0OTY5MzM4&v=16",
+      "percent": 100,
+       "hz": "240"
+           }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "id": 133424853,
+    "name": "Infamous Little Girl",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404, Canela, SomedudeV3"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/dljXhFtab_4?si=Xxpwdh9ZMzq1iliY",
+    "percentToQualify": 100,
+    "password": "AltJitter/Ludwig/240/No RT",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

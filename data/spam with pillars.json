@@ -1,0 +1,18 @@
+{
+    "id": 137224831,
+    "name": "spam with pillars",
+    "author": "Sandwich",
+    "creators": ["Sandwich"],
+    "verifier": "sandwich",
+    "verification": "https://youtu.be/khJC5DI5v4g",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+       {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/ttV96RgVk8I",
+        "hz": "240",
+        "percent": 100
+        }
+    ]
+}

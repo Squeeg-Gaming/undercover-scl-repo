@@ -1,0 +1,35 @@
+{
+    "id": 67262498,
+    "name": "MODERN VIP (Jitter)",
+    "author": "TTSum",
+    "creators": [],
+    "verifier": "REQUIEMHUNGERS",
+    "verification": "https://youtube.com/watch?v=goq2_6MCw6A",
+    "percentToQualify": "100",
+    "password": "Jitter/60FPS",
+    "records": [
+        {
+        "user": "IsntAdam",
+        "link": "https://www.youtube.com/watch?v=Wuw1bBgfGBs",
+        "hz": "60",
+        "percent": 100
+        },
+        { "user": "LightningGD",
+        "link": "https://youtu.be/d2o2TkO74bw?si=xNUUfJouaih3WSut",
+        "hz": 60,
+        "percent": 100
+        },
+        {
+            "user": "Soli",
+            "link": "https://www.youtube.com/watch?v=zVXHRU9udMY",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "Squeeg",
+        "link": "https://youtu.be/_5GNYa_v6qE?si=jjALSesA8OHELiAR",
+        "hz":60,
+        "percent": 100
+        }
+]
+}

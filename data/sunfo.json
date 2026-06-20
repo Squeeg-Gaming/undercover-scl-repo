@@ -1,0 +1,30 @@
+{
+    "id": 122956059,
+    "name": "sunfo",
+    "author": "theceacker",
+    "creators": [],
+    "verifier": "theceacker", 
+    "verification": "https://www.youtube.com/watch?v=V_2fYzMOPIg",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/165fps",
+    "records": [
+    {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/yXz4lapyhDg",
+        "hz": "22",
+        "percent": 100
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+      },
+        {
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

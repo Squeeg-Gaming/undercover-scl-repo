@@ -1,0 +1,24 @@
+{
+    "id": 130772330,
+    "name": "Je Never Clear",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=VnaL69gTuN8",
+    "percentToQualify": 100,
+    "password": "Alterjitter/Ludwig/CBF",
+    "records": [
+                {
+            "user": "LightningGD",
+            "link": "https://www.youtube.com/watch?v=BA48bXxBQIc&t=14s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "GMDMIRROR",
+            "link": "https://discord.com/channels/1420111313220403444/1498568915750752326/1498568915750752326",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

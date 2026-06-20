@@ -1,0 +1,42 @@
+{
+"id": 132578087,
+"name": "Unnamed Freakness",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, SomeDudeV3, Canela, Squeeg"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/6RkdGCryNYg",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/0zfTVTrhaZg?si=8SLkVBnkVAKTarHC",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": "CBF"
+        },
+    {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+           },
+    {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+             },
+    {
+            "user": "jeysce",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+    }
+    ]
+}

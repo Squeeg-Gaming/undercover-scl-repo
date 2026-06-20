@@ -1,0 +1,19 @@
+{
+    "id": 138529723,
+    "name": "The Big John",
+    "author": "ShayPlaz",
+    "creators": [],
+    "verifier": "ShayPlaz", 
+    "verification": "https://www.youtube.com/watch?v=8uQKl6p26vQ",
+    "percentToQualify": 100,
+    "password": "Rake/CBF/No RT",
+    "records": [
+
+                        {    
+            "user": "zod",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                        }
+                            ]
+}

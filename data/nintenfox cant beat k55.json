@@ -1,0 +1,49 @@
+{
+    "id": 63335497,
+    "name": "nintenfox cant beat",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "Sum",
+    "verification": "https://www.youtube.com/watch?v=F9AS44IIYNY",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+       
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=kewpgmC59jU",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/g48iFZ4M9mA",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498700603746943028",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "BunnyLlumi",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498700603746943028",
+            "hz": 240,
+            "percent": 100
+        },
+                                      {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                }       
+    ]
+}

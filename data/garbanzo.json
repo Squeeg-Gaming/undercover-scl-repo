@@ -1,0 +1,24 @@
+{
+    "id": 64086732,
+    "name": "GARBANZO",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=Ka02RNxlj1c",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "PaperGuy",
+      "link": "https://youtu.be/5gBToK4sOFE",
+      "hz": "CBF",
+      "percent": 100
+      },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2JxxeYjEKcA",
+        "hz": "CBF",
+        "percent": 100 
+        }
+    ]
+}

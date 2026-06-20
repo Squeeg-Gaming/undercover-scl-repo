@@ -1,0 +1,60 @@
+{
+    "id": 99420811,
+    "name": "Soundcloud",
+    "author": "DubbyBall",
+    "creators": [],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=WtbV-Xmziaw",
+    "percentToQualify": "100",
+    "password": "Alternating/59FPS",
+    "records": [
+        {
+            "user":"AmIAHamburger",
+            "link": "https://youtu.be/0x9F5EVmfnc?si=QqkqV1GhJvBVNwGc",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "Pastelliano",
+            "link": "https://youtu.be/blx7gemw8HQ?si=5ezkWrR85oPzUeYH",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/2gjq2ToFdCo?si=0Xmn5reJsNP-0Fg2",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=olMuSriiTH0&pp=0gcJCUUJAYcqIYzv",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/rLLTW-wfO_g",
+            "percent": 100,
+            "hz": 59
+        },
+        {
+      "user": "loooookkk",
+      "link": "https://www.youtube.com/watch?v=s4DdYX4lFI0",
+      "hz": "59",
+      "percent": 100
+      },
+        {
+        "user": "EmpanadR",
+        "hz": 59,
+        "link": "https://youtu.be/jdW4PlpPK7U?si=6wykOb1HSAWldkf7",
+        "percent": 100
+      },
+        {
+        "user": "Xnor",
+        "link": "https://www.youtube.com/watch?v=ipZdCBvOxys",
+            "hz": "59",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": 94184121,
+    "name": "Quesadilla for Mscl",
+    "author": "‬e",
+    "creators": ["‬e"],
+    "verifier": "e‬",
+    "verification": "https://www.youtube.com/watch?v=JQMtZVXwf8Y",
+    "percentToQualify": 100,
+    "password": "Alternating/Any fps",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/yBJdWzdevFo?si=_Hi6YOph_PBITjYi",
+            "percent": 100,
+            "hz": "CBF"
+            },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/568SVe7GCcY?si=7d01jv_j5mTuo8F0",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/o_RBoiHkpMc",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "Sandwich",
+        "link": "https://youtu.be/reZXTvozlmo",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "smelly bandi",
+        "link": "https://youtu.be/SNV1NBr44zo",
+        "hz": "60",
+        "percent": 100
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

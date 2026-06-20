@@ -1,0 +1,18 @@
+{
+    "id": 78927947,
+    "name": "fardstep old ver",
+    "author": "EmpanadR",
+    "creators": [],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=0VgQABRaaKA",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+                {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/s6nTPgjYaGc?si=58s0W1uwd1W0AYFl&t=18",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

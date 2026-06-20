@@ -1,0 +1,73 @@
+{
+    "id": 69461445,
+    "name": "Unpatchable",
+    "author": "9tn",
+    "creators": [],
+    "verifier": "9tn",
+    "verification": "https://youtu.be/uhJRaPks59g",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+   "records": [
+       
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/F6ASgX5RNXs",
+            "percent": 100,
+            "hz": "60"
+        },
+      	        {
+            "user": "Ray-3rd",
+            "link": "https://youtu.be/Fjci76jnKe4?si=uRNloQYr0UzsIgUW",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+        "user": "smelly bandi",
+        "link": "https://youtu.be/SNV1NBr44zo",
+        "hz": "60",
+        "percent": 100
+        },
+        {
+        "user": "shafikdabest",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/89rmapzT9dE?si=AjO6xUIYtpcQ4w9wYouTube",
+            "hz": 240,
+            "percent": 100
+        },
+                               {    
+            "user": "ShayPlaz",
+            "link": "https://www.youtube.com/watch?v=hJPQWyQpn3Q",
+            "hz": "60",
+            "percent": 100
+        },
+                                      {    
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "60",
+            "percent": 100
+        },
+                       {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        },
+                        {    
+            "user": "zod",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                       }
+    ]
+}

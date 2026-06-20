@@ -1,0 +1,25 @@
+{
+    "id": 84874638,
+    "name": "my meat",
+    "author": "Skylar06uwu",
+    "creators": [],
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/bb7BoAWl4Mw",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=zVoiWgbRqJM&t=58s",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=hBjwZaUVONM&t=37s",
+        "hz": "CBF",
+        "percent": 100
+        
+        }
+    ]
+}

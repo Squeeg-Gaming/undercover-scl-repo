@@ -1,0 +1,24 @@
+{
+    "id": 69063429,
+    "name": "Uroid",
+    "author": "BensonGD",
+    "creators": ["BensonGD"],
+    "verifier": "PaperGuy",
+    "verification": "https://www.youtube.com/watch?v=guP7uuOYU4g&time_continue=7&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fthespamchallengelist.pages.dev%2F",
+    "percentToQualify": 100,
+    "password": "Alternating/Cbf",
+    "records": [
+                {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/live/C-4YwOxWUfc?t=1965s",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=Xn9w6JzTRLw&t=64s",
+            "percent": 100,
+            "hz": "cbf",
+        }
+    ]
+}

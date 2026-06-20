@@ -1,0 +1,18 @@
+{
+    "id": 114780096,
+    "name": "the cookie crumble",
+    "author": "nick24",
+    "creators": [],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=jLQQ0Fi4HM8",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+                {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/mBZodbs4M9M",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

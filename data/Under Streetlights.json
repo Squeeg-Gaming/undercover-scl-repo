@@ -1,0 +1,30 @@
+{
+    "id": 69772123,
+    "name": "Under Streetlights",
+    "author": "MeowPau",
+    "creators": [],
+    "verifier": "Lillian",
+    "verification": "https://www.youtube.com/watch?v=cxtmAOeewF4",
+    "percentToQualify": "100",
+    "password": "G502/G512/CBF",
+    "records": [
+        {
+            "user":"AmIAHamburger",
+            "link": "https://www.youtube.com/watch?v=9DHz6irxUEI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=kdvUxZ9dunk",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+      "user": "loooookkk",
+      "link": "https://youtu.be/aJyT9VomyVU?si=ufjZPzQZzyjajbj4&t=87",
+      "hz": "CBF",
+      "percent": 100
+      }
+]
+}

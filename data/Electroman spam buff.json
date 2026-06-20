@@ -1,0 +1,48 @@
+{
+    "id": 140250177,
+    "name": "Electroman spam buff",
+    "author": "Squeeg",
+    "creators": ["Squeeg"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+    {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "polar1s",
+            "link": "http://youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "hz": 60,
+            "percent": 100
+          },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+        },
+        {    
+            "user": "powergreen",
+            "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+            "hz": "240",
+            "percent": 100
+                  },
+                    {    
+            "user": "Deniidk",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
+        }
+    ]
+}

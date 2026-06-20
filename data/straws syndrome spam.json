@@ -1,0 +1,25 @@
+{
+    "id": 117632085,
+    "name": "straws syndrome spam",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=sYlM-U2RWxw",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+            {
+            "user": "rogi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

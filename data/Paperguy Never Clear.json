@@ -1,0 +1,48 @@
+{
+    "id": 109761890,
+    "name": "Paperguy Never Clear",
+    "author": "JeDoesStuff",
+    "creators": [],
+    "verifier": "JeDoesStuff",
+    "verification": "https://www.youtube.com/watch?v=ReNyeR0LNPc",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+                                 {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/shorts/LqDyR0j5as4",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/1KPeBF0gQsw",
+            "hz": 240,
+            "percent": 100
+      },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/AxptNIFKULw?si=7FJ2GUm6FUYqes1V",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "MiRPacK19",
+            "link": "https://youtu.be/AxptNIFKULw?si=7FJ2GUm6FUYqes1V",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

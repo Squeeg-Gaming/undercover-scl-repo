@@ -1,0 +1,29 @@
+{
+    "id": 93931583,
+    "name": "25728",
+    "author": "Sol-XSL",
+    "creators": [],
+    "verifier": "Sol-XSL",
+    "verification": "https://youtu.be/w3xb2_KvEg8?si=gSwY_4KBanhHz_nE",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/xhben7txBk8?si=ld8xrfskO0QKyuSP&t=1051",
+        "hz": "60",
+        "percent": 100
+        },
+        {
+         "user": "ywuChaos",
+         "hz": "60",
+         "percent": 100
+        },
+                       {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

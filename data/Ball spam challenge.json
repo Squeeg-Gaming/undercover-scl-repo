@@ -1,0 +1,36 @@
+{
+    "id": 42321985,
+    "name": "Ball spam challenge",
+    "author": "DaBoss21",
+    "creators": ["DaBoss21"],
+    "verifier": "DaBoss21",
+    "verification": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+            "hz": "CBF",
+            "percent": 100
+        },
+            {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "polar1s",
+            "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "hz": "CBF",
+            "percent": 100
+          },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

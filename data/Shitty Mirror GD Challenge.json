@@ -1,0 +1,66 @@
+{
+    "id": 132443092,
+    "name": "Shitty Mirror GD challenge",
+    "author": "Noxces OG",
+    "creators": ["Noxces OG"],
+    "verifier": "Noxces OG",
+    "verification": "https://youtu.be/Ihf9_zvLL6g?si=Bit5g2xsX4JHA8GU",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/YNCg4a8SIFs?si=NJCMyuaeLKrOmECN",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+        "user": "CyLog",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1500943834346029228",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+        "user": "jeysce",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1500943834346029228",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/shorts/3JeiokPfS2k",
+        "hz": 240,
+        "percent": 100
+                             },
+        {
+        "user": "shafikdabest",
+        "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "hz": "CBF",
+            "percent": 100
+        },
+                                      {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                  },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                      }
+    ]
+}

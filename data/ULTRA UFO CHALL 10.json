@@ -1,0 +1,68 @@
+{
+    "id": 131661451,
+    "name": "ULTRA UFO CHALL 10",
+    "author": "Xed",
+    "creators": ["Xed"],
+    "verifier": "Xed", 
+    "verification": "https://www.youtube.com/watch?v=HQqnd6KCer0",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://www.youtube.com/watch?v=O9VBaxMSn8k",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Liknod",
+            "link": "https://youtu.be/0t5mO7TKUp8?si=KlGhTKauyOLru3jP",
+            "percent": 100,
+            "hz": 240
+        },
+        
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/DGUedt9m_Ns?si=hf9OqGMLhq_vdnpC",
+            "percent": 100,
+            "hz": 240
+        },
+                                {
+        "user": "zher14",
+        "link": "https://youtu.be/3HfYgZDE3_8?si=32xAd7NQwIKQSe_g",
+        "hz": "CBF",
+        "percent": 100
+        },
+        
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/YYuGwbL3jWU",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/g48iFZ4M9mA",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "CBF",
+      "percent": 100
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://youtube.com/live/qsULRwDB7vU",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
+}

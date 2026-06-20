@@ -1,0 +1,18 @@
+{
+    "id": 116181206,
+    "name": "I AM SPAM (30 FPS)",
+    "author": "aelzfr",
+    "creators": ["aelzfr"],
+    "verifier": "BLJ_Broken",
+    "verification": "https://www.youtube.com/watch?v=QfcAQJd2jvM",
+    "percentToQualify": 100,
+    "password": "Alternating/30FPS",
+    "records": [
+                {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=2myEzs4_sRA&pp=ugUEEgJlbg%3D%3D",
+            "percent": 100,
+            "hz": 30
+        }
+    ]
+}

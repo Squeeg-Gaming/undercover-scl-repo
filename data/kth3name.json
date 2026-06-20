@@ -1,0 +1,60 @@
+{
+    "id": 69694865,
+    "name": "k",
+    "author": "Th3name",
+    "creators": ["Th3name"],
+    "verifier": "loooookkk",
+    "verification": "https://www.youtube.com/watch?v=pQSmddwKbgo",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+          "user": "Ray131",
+          "link": "https://youtu.be/oUQs623WUgM",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "PaperGuy",
+          "link": "https://youtu.be/D5p_bteU3G0?t=34",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "pixelfactorial",
+          "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=6s",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "MM9000",
+          "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=6s",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "ywuChaos",
+          "link": "https://www.youtube.com/watch?v=Zvw9RHx8M_o",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "Frozix",
+          "link": "https://www.youtube.com/watch?v=4WhkcqN40Zw&t=57s",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "ad3usgmd",
+          "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+          "hz": "60",
+          "percent": 100
+        },
+        {
+          "user": "Sol-XSL",
+          "link": "https://www.youtube.com/watch?v=0dhiGxeXS1A",
+          "hz": "60",
+          "percent": 100
+        }
+    ]
+}

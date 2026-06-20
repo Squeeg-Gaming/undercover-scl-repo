@@ -1,0 +1,24 @@
+{
+    "id": 136985892,
+    "name": "Shitty Razer Burn",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/-k8qiCsA-UY",
+    "percentToQualify": "100",
+    "password": "Jitter/CBF",
+    "records": [
+                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/FCaVhxVOZ2c",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=2mJEEtTEpuo",
+            "hz": 240,
+            "percent": 100
+                }
+    ]
+}

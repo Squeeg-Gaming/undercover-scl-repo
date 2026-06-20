@@ -1,0 +1,19 @@
+{
+    "id": 132313513,
+    "name": "Waving Space TwO",
+    "author": "blightedcoconut",
+    "creators": ["blightedcoconut"],
+    "verifier": "PaperGuy",
+    "verification": "https://www.youtube.com/watch?v=dJg45r_VNYc&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+     
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/q8R8QsmsZa4",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

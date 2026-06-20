@@ -1,0 +1,23 @@
+{
+    "id": 128264558,
+    "name": "wave practice 999",
+    "author": "ad3usgmd",
+    "creators": ["pixelfactorial", "spampurel"],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/CmPMenXip-s",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/0dMlrygaejs",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

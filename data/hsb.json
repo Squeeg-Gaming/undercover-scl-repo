@@ -1,0 +1,19 @@
+{
+    "id": 139041766,
+    "name": "Haunted Spam Bbuff",
+    "author": "9th",
+    "creators": ["Squeeg"],
+    "verifier": "shafikdabest",
+    "verification": "https://youtu.be/Nwoz-yBt0Xw?si=843TKnLeLbgKijtk",
+    "percentToQualify": 96,
+    "password": "jitter",
+    "description": "ts level so tuff boiiiiiiiiiiii",
+    "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/IqIJO10gHO8",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}

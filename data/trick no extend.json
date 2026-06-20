@@ -1,0 +1,30 @@
+{
+    "id": 78788239,
+    "name": "TriCk no extend",
+    "author": "EmpanadR",
+    "creators": ["EmpanadR"],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=wO2xJ3CvxFU&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [        
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/mBZodbs4M9M",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://youtu.be/UlRjRblbWqs?si=epnwTDtsIisyBVot",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ShayPlaz",
+            "link": "https://www.tiktok.com/@hisarlic/video/7636898486025194766?is_from_webapp=1&sender_device=pc&web_id=7635455459479848461",
+            "percent": 100,
+            "hz": 60
+        }     
+    ]
+}

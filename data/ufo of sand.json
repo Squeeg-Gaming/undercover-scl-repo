@@ -1,0 +1,55 @@
+{
+    "id": 70955717,
+    "name": "Ufo of sand",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/HHGPnZi7-UU",
+    "percentToQualify": "100",
+    "password": "Alternating/240",
+    "records": [
+                                                  {
+            "user": "AngoPR",
+            "link": "https://youtu.be/MYKSHiWEc50?si=bV-RdVRdcHt0JjUo",
+            "percent": 100,
+            "hz": 60
+       
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/WtQ4Z58hRjA",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+                                              {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                          },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                              },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

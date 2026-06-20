@@ -1,0 +1,36 @@
+{
+    "id": 135493654,
+    "name": "Shitty Mirror GD challenge",
+    "author": "AngoPR",
+    "creators": ["Noxces OG, AngoPR"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/Ihf9_zvLL6g?si=Bit5g2xsX4JHA8GU",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/YNCg4a8SIFs?si=NJCMyuaeLKrOmECN",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "G1rcy",
+            "link": "https://youtu.be/FCaVhxVOZ2c",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+     },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

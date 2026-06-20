@@ -1,0 +1,30 @@
+{
+    "id": 128887681,
+    "name": "Mirr0rgd n3v3r n3v3r",
+    "author": "liknod",
+    "creators": [],
+    "verifier": "GMDMIRROR",
+    "verification": "https://www.youtube.com/watch?v=r1SHB7PnwfI",
+    "percentToQualify": "100",
+    "password": "Ludwig/Altjitter/CBF",
+    "records": [
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100 
+                         },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+           },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

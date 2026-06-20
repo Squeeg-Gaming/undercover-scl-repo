@@ -1,0 +1,49 @@
+{
+    "id": 136831341,
+    "name": "Aviv Spam Impressio",
+    "author": "esbyami",
+    "creators": ["esbyami"],
+    "verifier": "esbyami",
+    "verification": "https://youtu.be/xL6DjTAj2go?si=LDwaTjJSuqainatm",
+    "percentToQualify": "100",
+    "password": "Alternating/Jitter/CBF",
+    "records": [
+        {
+            "user": "Shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+      
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "Delgado_Yeet_404",
+        "link": "https://youtu.be/FLEKKnTeBgo",
+        "hz": "240",
+        "percent": 100
+       },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/FLEKKnTeBgo",
+        "hz": "240",
+        "percent": 100
+                                       },
+                        {    
+            "user": "Gonzalinis",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+        },
+                                      {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": 100543028,
+    "name": "HRHR",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/E_hVSA1r7y0",
+    "percentToQualify": "100",
+    "password": "Jitter/CBF",
+    "records": [
+                                                                              {
+        "user": "TheBridgerMC",
+        "link": "https://youtu.be/sfjuBN8EMq8?si=qWk3LzaD0axAb1U9",
+        "hz": "cbf",
+        "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/j9QLHq18qJM?si=DJZH-zimjTTx-6-G",
+            "percent": 100,
+            "hz": "60"
+        }
+        
+    ]
+    
+}
+

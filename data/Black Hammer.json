@@ -1,0 +1,30 @@
+{
+    "id": 129245773,
+    "name": "Black Hammer",
+    "author": "Squeeg",
+    "creators": ["Squeeg, SomeDudeV3, idk__numb"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=JTrudveULkI",
+    "percentToQualify": 96,
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+        "user": "Cyber<3<3",
+        "link": "https://discord.com/channels/1420111313220403444/1500072044518309908/1500072044518309908",
+            "hz": "CBF",
+            "percent": 100
+        },
+                {
+        "user": "AngoPR",
+        "link": "https://youtu.be/dFd8sUHOekc?si=R6v0-Yz0VNaaH1NS",
+            "hz": "CBF",
+            "percent": 100
+        },
+                                                    {
+                "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

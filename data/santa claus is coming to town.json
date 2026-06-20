@@ -1,0 +1,24 @@
+{
+    "id": 132482586,
+    "name": "santa claus is coming to town",
+    "author": "Squeeg",
+    "creators": ["Squeeg, SomeDudeV3"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=du1W80W43PM",
+    "percentToQualify": 100,
+    "password": "Rake/CBF/No RT",
+    "records": [
+                        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/6GAmSD-GYOg",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

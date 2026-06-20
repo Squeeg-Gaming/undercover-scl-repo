@@ -1,0 +1,30 @@
+{
+    "id": 139194809,
+    "name": "BOOG MCBOOB",
+    "author": "Snazzy_XD",
+    "creators": ["Snazzy_XD"],
+    "verifier": "Snazzy_XD",
+    "verification": "https://www.youtube.com/watch?v=hNw12sWU4sI",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+            {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+                "user": "polar1s",
+            "link": "https://www.youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+            "hz": 60,
+            "percent": 100
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

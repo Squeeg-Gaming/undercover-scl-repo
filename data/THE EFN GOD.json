@@ -1,0 +1,53 @@
+{
+    "id": 114655680,
+    "name": "THE EFN GOD",
+    "author": "zFrozix",
+    "creators": ["JoinMolten", "Me24345", "zFrozix"],
+    "verifier": "Frozix",
+    "verification": "https://www.youtube.com/watch?v=FUJdawQx0Dc",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=QWUtRJU5j4c",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "totalgd",
+            "hz": "CBF",
+            "link": "https://youtu.be/xDi8VLcXmSU",
+            "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/live/sFAGObOh6SE?si=FBY_EvOnWLCbNE-c&t=15400",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=PiSpGFV0T_w",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "id": 65309647,
+    "name": "J",
+    "author": "Th3name",
+    "creators": ["Th3name"],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=C7UtVhAWF4s",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "Ray131",
+            "link": "https://www.youtube.com/watch?v=NQs56YEtIgM&t=12s",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=EEJasGGt9H4&t=12s",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=MgXGlj8Ln-Q",
+            "percent": 100,
+            "hz": "60"
+        },        
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": 60,
+            "percent": 100
+        },        
+        {
+            "user": "PureL",
+            "link": "https://medal.tv/games/geometry-dash/clips/iHydJsOkJOHc6E4FL?invite=cr-MSxGMTEsNDY0ODc4OSw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "LucaGMD",
+            "link": "https://youtu.be/FBEq-RBhxVA",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "MM9000",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": 60,
+            "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/mEgjmCbYpWjjcpp6D?invite=cr-MSwweWssNDcyMzE5NTg3",
+            "hz": 60,
+            "percent": 100
+       
+        }
+    ]
+}

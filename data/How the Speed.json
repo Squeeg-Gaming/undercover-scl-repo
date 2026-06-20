@@ -1,0 +1,19 @@
+{
+    "id": 137998171,
+    "name": "How the Speed",
+    "author": "shafikdabest",
+    "creators": ["shafikdabest"],
+    "verifier": "shafikdabest",
+    "verification": "https://youtu.be/lH09Er5rjJs",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+    
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

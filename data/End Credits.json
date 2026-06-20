@@ -1,0 +1,31 @@
+{
+    "id": 67355805,
+    "name": "End Credits",
+    "author": "JoinMolten",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=P9NA4oGBv0c",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=yLJrM2pwe4s",
+            "hz": 60,
+            "percent": 100
+       
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://medal.tv/games/geometry-dash/clips/muCtqDMH44vOO6LZD?invite=cr-MSx4ZW0sNDcyMzE5NTg3",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

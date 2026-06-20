@@ -1,0 +1,19 @@
+{
+    "id": 1208968182,
+    "name": "Trides Demise",
+    "author": "Wallyt12",
+    "creators": ["Wallyt12"],
+    "verifier": "Hypersonic_Time",
+    "verification": "https://www.youtube.com/watch?v=IQHqhx7wz0o",
+    "percentToQualify": 100,
+    "password": " ",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=6fjughcPjig", 
+            "percent": 100,
+            "hz": "30"
+       
+        }
+    ]
+}

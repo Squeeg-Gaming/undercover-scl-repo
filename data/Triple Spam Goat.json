@@ -1,0 +1,24 @@
+{
+    "id": 114808888,
+    "name": "Triple Spam Goat",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/uhJRaPks59g",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [    
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/zBzFyGNwaK0",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

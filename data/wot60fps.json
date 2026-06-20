@@ -1,0 +1,44 @@
+ {
+    "id": 128723870,
+    "name": "Wrath of the 60fps",
+    "author": "Squeeg",
+    "creators": ["Squeeg,Angopr"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/lBgUfY4Q50g?si=MVXGga_fzqUHya_6",
+    "percentToQualify": 100,
+    "password": "Rake/60fps/No RT",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/FCaVhxVOZ2c",
+            "percent": 100,
+            "hz": 240
+        
+        
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://www.youtube.com/watch?v=AxptNIFKULw&t=1s",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=AxptNIFKULw&t=1s",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "ZeorixGD",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

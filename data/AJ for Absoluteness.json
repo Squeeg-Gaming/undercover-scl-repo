@@ -1,0 +1,48 @@
+{
+    "id": 136720811,
+    "name": "Aj for Absoluteness",
+    "author": "DelgadoYeet404",
+    "creators": ["Squeeg, AllOnRed777, DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/ips6L36qUGQ",
+    "percentToQualify": "100",
+    "password": "AltJitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+     },
+        {
+        "user": "Coldified",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+        },
+                                    {
+            "user": "AngoPR",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "CBF",
+      "percent": 100
+                             },
+        {
+        "user": "shafikdabest",
+        "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "hz": "CBF",
+            "percent": 100
+                                    }
+    ]
+}

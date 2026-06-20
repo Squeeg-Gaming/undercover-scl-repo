@@ -1,0 +1,19 @@
+{
+    "id": 129909691,
+    "name": "No transition 6020",
+    "author": "aelzfr",
+    "creators": ["PaperGuy"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=3wEg6S7X6FU",
+    "percentToQualify": 100,
+    "password": "Alternating/Altjitter/Ludwig/60FPS",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

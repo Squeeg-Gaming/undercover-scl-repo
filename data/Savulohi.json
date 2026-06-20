@@ -1,0 +1,25 @@
+{
+    "id": 93931202,
+    "name": "Savulohi",
+    "author": "PaperGuy1",
+    "creators": ["PaperGuy1"],
+    "verifier": "AmIAHamburger",
+    "verification": "https://www.youtube.com/watch?v=qkBbCoNsVhg",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/iQrY78aZBwo",
+            "hz": 60,
+            "percent": 100
+       
+        }
+    ]
+}

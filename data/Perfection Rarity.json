@@ -1,0 +1,55 @@
+{
+    "id": 139604649,
+    "name": "Perfection Rarity",
+    "author": "Carter Traywick",
+    "creators": ["Carter Traywick"],
+    "verifier": "Carter Traywick",
+    "verification": "https://youtu.be/8eOTAj8Xups?si=SiQf5JXB6JTuFmq8",
+    "percentToQualify": 100,
+    "password": "Alternating/Altjitter/244FPS",
+    "records": [
+     
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/6G3WaETuUOE",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/6G3WaETuUOE",
+            "hz": 240,
+            "percent": 100
+        },
+                                    {
+            "user": "AngoPR",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "244",
+      "percent": 100
+        },
+                                            {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/watch?v=SHGoPHXfyco",
+      "hz": "244",
+      "percent": 100
+         },
+                                            {
+            "user": "BILLYBOBERTSONTHE3RD",
+      "link": "https://www.youtube.com/watch?v=SHGoPHXfyco",
+      "hz": "244",
+      "percent": 100
+                                            },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+                                            }
+    ]
+}

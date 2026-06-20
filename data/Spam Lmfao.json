@@ -1,0 +1,24 @@
+{
+    "id": 67022468,
+    "name": "Spam Lmfao",
+    "author": "JoinMolten",
+    "creators": ["UFokinWotM8, NXISE, JoinMolten"],
+    "verifier": "JoinMolten",
+    "verification": "https://youtu.be/ApJXNOTqXjg",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/xZ9fIRz7nX0",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=iMrJ2KJwpN4",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

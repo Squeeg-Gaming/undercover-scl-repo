@@ -1,0 +1,19 @@
+{
+    "id": 128059446,
+    "name": "LIGHTNING",
+    "author": "ManiaGTC",
+    "creators": ["ManiaGTC"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=mhE9LoMppho",
+    "percentToQualify": 99,
+    "password": "Alternating/Ludwig/Altjitter/60FPS",
+    "records": [
+     
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sG783ZU5xpI",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

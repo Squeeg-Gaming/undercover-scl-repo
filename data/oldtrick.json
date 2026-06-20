@@ -1,0 +1,49 @@
+{
+    "id": 77872599,
+    "name": "TricK old version",
+    "author": "zFishal",
+    "creators": ["zFishal"],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=jtDPrQUkRdc&t=15s",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=mfa-iTBXePM&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+                {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=s6nTPgjYaGc&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=Dsn-Saq0uzQ&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+                        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?si=03C8WoK6UB91vqcq&t=190&v=IV0IacuY3_s&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+                               {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?si=03C8WoK6UB91vqcq&t=190&v=IV0IacuY3_s&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/ltlv-Hj3Lng?si=_55-sABzFAVFU9X0",
+            "hz": 60,
+            "percent": 100
+    }
+    ]
+}

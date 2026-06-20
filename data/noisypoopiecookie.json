@@ -1,0 +1,70 @@
+{
+    "id": 70823231,
+    "name": "noisypoopiecookie",
+    "author": "opakue",
+    "creators": [],
+    "verifier": "opakue",
+    "verification": "https://www.youtube.com/watch?v=03AuNOzfGGQ",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=vrFHJuTO5MM",
+        "hz": 60,
+        "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://youtu.be/XNNqUlCwT98?si=ra6rES2DjK_rR5Xa",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "nucleus",
+            "hz": 60,
+            "percent": 100,
+            "mobile": true
+        },
+        {
+            "user": "IsntAdam",
+            "link": "https://www.youtube.com/watch?v=AHafRUjDWhw",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ivangys",
+            "link": "https://youtu.be/E8A3JE3MESI",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "galbeni7",
+            "link": "https://youtu.be/W3tdWHM34V4",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Me24345",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "pixelfactorial",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/X1DI3Rw02a4",
+        "hz": "60",
+        "percent": 100
+        }
+    ]
+}

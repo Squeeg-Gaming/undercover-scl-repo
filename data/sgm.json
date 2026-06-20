@@ -1,0 +1,39 @@
+{
+    "id": 127022645,
+    "name": "Spam god maddnes",
+    "author": "Angopr",
+    "creators": ["Angopr"],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/UgAY_3CweHU?si=mQwOvZOgLh0X30h1",
+    "percentToQualify": "100",
+     "description": "No i didnt miss spell it on the list i genuienly wrote it like that😭",
+    "password": "Alternating/60FPS",
+   "records": [
+        
+       
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+                                    {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                },
+                                    {
+            "user": "BunnyLlumi <3",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                                    }
+    ]
+}

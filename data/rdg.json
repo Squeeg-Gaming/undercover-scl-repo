@@ -1,0 +1,48 @@
+{
+    "id": 80613435,
+    "name": "redragon griffin",
+    "author": "Pastelliano",
+    "creators": ["Pastelliano"],
+    "verifier": "Pastelliano",
+    "verification": "https://www.youtube.com/watch?v=pAqH7r512hA&source_ve_path=OTY3MTQ&embeds_referring_euri=https%3A%2F%2Fspamchallenge.pages.dev%2F",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=aV5iuliJCVs",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=c_4TBRlYZfI&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        },        
+        {
+            "user": "pixelfactorial",
+            "link": "https://discord.com/channels/1268386437116465205/1268386862079283222/1350726350801211454",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=IV0IacuY3_s&t=182s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=P6E6nrGUKQ4&t=10s",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Sandwich",
+            "link": "https://medal.tv/games/geometry-dash/clips/mE7tr7aKZCKY-bfI2?invite=cr-MSx6OWgsNDcyMzE5NTg3",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

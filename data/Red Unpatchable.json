@@ -1,0 +1,25 @@
+{
+    "id": 136721697,
+    "name": "Red Unpatchable",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+    "percentToQualify": "100",
+    "password": "Alternating/120FPS",
+    "records": [
+        
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 249,
+            "percent": 100
+        },
+            {
+            "user": "BILLYBOBERTSONTHE3RD ",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 249,
+            "percent": 100
+        }
+    ]
+}

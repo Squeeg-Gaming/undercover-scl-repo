@@ -1,0 +1,37 @@
+{
+    "id": 132066992,
+    "name": "I Am Lamb Infinity",
+    "author": "Squeeg",
+    "creators": ["BLJ_Broken, Squeeg, idk__numb"],
+    "verifier": "BLJ_Broken",
+    "verification": "https://youtu.be/z-7xFdZp98E",
+    "percentToQualify": 100,
+    "password": "Alternating/60FPS",
+    "records": [
+        
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/VYDdAdwoKJc",
+            "hz": "60",
+            "percent": 100
+        },
+                       {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=Ofjz1YtUhsc",
+            "hz": 60,
+            "percent": 100
+        },
+           {
+            "user": "ShayPlaz",
+            "link": "https://youtu.be/B_VrMLQq1G0?si=bgEg92U4nhfX1rcL",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": 71625888,
+    "name": "you tried",
+    "author": "lexipwastaken",
+    "creators": [],
+    "verifier": "pixel",
+    "verification": "https://www.youtube.com/watch?v=0RlYyr9IrKI",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "9tn",
+        "link": "https://youtu.be/rmtbmhyrUQM?t=3",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/watch?v=4XeHF1k-PDU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "tFluffy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492797131596234863",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

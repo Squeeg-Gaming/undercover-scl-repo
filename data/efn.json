@@ -1,0 +1,31 @@
+{
+    "id": 111882540,
+    "name": "Elementary for Nxise",
+    "author": "JoinMolten",
+    "creators": ["Cyclic, Joinmolten"],
+    "verifier": "JoinMolten",
+    "verification": "https://youtu.be/VjX_FwRgOgQ",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+       
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/HEyCsVbVbk8",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "uhmmmm no link",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

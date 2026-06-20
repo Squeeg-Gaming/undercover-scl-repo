@@ -1,0 +1,51 @@
+{
+    "id": 132637972,
+    "name": "Shes Perfect",
+    "author": "DelgadoYeet404",
+    "creators": [],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/9aSzU9hiLWY",
+    "percentToQualify": "100",
+    "password": "Ludwig/Altjitter/CBF",
+    "records": [
+                                {
+            "user": "AngoPR",
+            "link": "https://youtu.be/TF7oU1vgtxE?si=xHuzp3AITGjqF2wm",
+            "percent": 100,
+            "hz": 240
+        },
+                                        {
+            "user": "Squeeg",
+            "link": "https://youtube.com/live/RzRKLn_XbI8",
+            "percent": 100,
+            "hz": 240
+        },
+
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+         },
+
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/uhDe-VqGIVg?si=2ebhEvNLWSIn03yG",
+            "hz": 360,
+            "percent": 100
+          },
+
+        {
+            "user": "jeysce",
+            "link": "https://youtu.be/uhDe-VqGIVg?si=2ebhEvNLWSIn03yG",
+            "hz": 360,
+            "percent": 100
+             },
+       {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/uhDe-VqGIVg?si=2ebhEvNLWSIn03yG",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

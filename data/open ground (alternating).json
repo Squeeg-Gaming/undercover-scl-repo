@@ -1,0 +1,30 @@
+{
+    "id": 114036411,
+    "name": "open ground",
+    "author": "Pastelliano",
+    "creators": [],
+    "verifier": "Pastelliano",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g&t=6s",
+    "percentToQualify": "100",
+    "password": "Alternating/66FPS",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=lir5iCDGXdI",
+            "hz":66,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/_2OUqVlECG8",
+            "hz":66,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/FnYQdJ3AcSM",
+            "hz":66,
+            "percent": 100
+        }
+    ]
+}

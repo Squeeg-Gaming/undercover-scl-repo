@@ -1,0 +1,24 @@
+{
+    "id": 133501494,
+    "name": "No Lieee V3 fr",
+    "author": "Sandwichv1",
+    "creators": ["itzgloosy, Liknod"],
+    "verifier": "Sandwich",
+    "verification": "https://youtu.be/XjZ35ZQD36U",
+    "percentToQualify": 100,
+    "password": "Geode Scroll/240FPS",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/jUl8eUTns2E",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404w",
+            "link": "https://youtu.be/x4nettHK890",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

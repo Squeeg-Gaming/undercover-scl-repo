@@ -1,0 +1,31 @@
+{
+    "id": 68412395,
+    "name": "THROWIN NO MO HANDS",
+    "author": "Nev9",
+    "creators": [],
+    "verifier": "Nev9",
+    "verification": "https://youtu.be/lRxJ-QxNfhE",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/F7yR7-9RedQ",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=VyPal1zuB5c",
+            "hz": 60,
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+       
+        }
+    ]
+}

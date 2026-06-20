@@ -1,0 +1,49 @@
+{
+    "id": 64411943,
+    "name": "Antawhatica",
+    "author": "Nordd",
+    "creators": ["Nordd"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/94MUQ1Eus9Y",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+        
+        },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 240,
+            "percent": 100
+     },
+        {
+        "user": "smelly bandi",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+        "user": "Blessed",
+            "link": "https://youtu.be/ttV96RgVk8I?si=_0Tu-8QT_wXmEnk5",
+            "hz": 240,
+            "percent": 100
+        },
+                                      {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                },
+                                              {
+            "user": "Aelzfr",
+            "link": "https://www.youtube.com/watch?v=G6sdYmwFwL8",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 131431573,
+    "name": "Bugatti Tutorial",
+    "author": "Shayplaz",
+    "creators": ["Shayplaz"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/tLySS5dhDDs",
+    "percentToQualify": "100",
+    "password": "AltJItter/Ludwig/CBF",
+    "records": [
+                    {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/YYuGwbL3jWU",
+            "hz": 360,
+            "percent": 100
+       },
+                {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 360,
+            "percent": 100
+                },
+                            {
+            "user": "AngoPR",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "CBF",
+      "percent": 100
+                     },
+    {
+            "user": "TheBridgerMC",
+      "link": "https://youtu.be/-w4xpYLfHIs?si=OR11QmJGw_Rr22Th",
+      "hz": "CBF",
+      "percent": 100
+    },
+            {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/shorts/AN2XTxGbGso",
+      "hz": "CBF",
+      "percent": 100
+    }
+    ]
+}

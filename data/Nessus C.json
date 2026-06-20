@@ -1,0 +1,36 @@
+{
+    "id": 133506860,
+    "name": "Nessus C",
+    "author": "Dan",
+    "creators": ["Dan, Carter Traywick"],
+    "verifier": "Dan",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g",
+    "percentToQualify": 100,
+    "password": "Lip Spam/CBF/mobile",
+    "records": [
+                                     {
+        "user": "AngoPR",
+        "link": "https://youtu.be/cwc03gyn5Bs?si=RX7T-wUNoQN1zfvn",
+        "hz": "https://youtu.be/abUJv2nFhHk?si=FTFM_K0CpEbqeWHz",
+        "percent": 100
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/jUl8eUTns2E",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "shafikdabest",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "id": 1285302879,
+    "name": "Hellhouse",
+    "author": "GD_Noob",
+    "creators": ["GD_Noob"],
+    "verifier": "idk__numb",
+    "verification": "https://www.youtube.com/watch?v=AF-C_bdVf1M",
+    "percentToQualify": 100,
+    "password": " ",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=6fjughcPjig", 
+            "percent": 100,
+            "hz": "30"
+       
+        }
+    ]
+}

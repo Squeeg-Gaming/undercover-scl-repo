@@ -1,0 +1,38 @@
+{
+    "id": 123365284,
+    "name": "owwie my arms",
+    "author": "SnazzyXD",
+    "creators": [],
+    "verifier": "SnazzyXD",
+    "verification": "https://www.youtube.com/watch?v=uhJRaPks59g",
+    "percentToQualify": "100",
+    "password": "Alternating/240FPS",
+    "description": "ezezezezez *(verification video pinned in discord)",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=jkZ1wSpPl5Y",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "Delgado_yeet_404",
+        "link": "https://youtu.be/yXz4lapyhDg",
+        "hz": "22",
+        "percent": 100
+           },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

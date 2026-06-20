@@ -1,0 +1,36 @@
+{
+    "id": 117571015,
+    "name": "Hellcat Tutorial (SomeDude)",
+    "author": "SomeDudeV3",
+    "creators": [],
+    "verifier": "SomeDudeV3",
+    "verification": "https://www.youtube.com/watch?v=08ErfCtqmS0",
+    "percentToQualify": "100",
+    "password": "Rake/CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+      "link": "https://www.youtube.com/watch?v=sYlM-U2RWxw",
+      "hz": "CBF",
+      "percent": 100
+        },
+        {
+            "user": "Squeeg",
+      "link": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
+      "hz": "CBF",
+      "percent": 100
+        },
+                {
+            "user": "AngoPR",
+      "link": "https://youtu.be/0lTe8dMSagw?si=hkIK4Wh6u63Ekf-W",
+      "hz": "CBF",
+      "percent": 100
+        },
+                            {
+                "user": "AP-Marsfr",
+            "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

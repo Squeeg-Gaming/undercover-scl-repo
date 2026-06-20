@@ -1,0 +1,36 @@
+{
+    "id": 123428971,
+    "name": "No Lieeee",
+    "author": "itzgloosy",
+    "creators": [],
+    "verifier": "IsntAdam", 
+    "verification": "https://www.youtube.com/watch?v=b38GjMpi8uw",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+    },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+    },
+                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/S3qU_asd8Fs",
+            "hz": 240,
+            "percent": 100
+                          },
+        {
+        "user": "shafikdabest",
+        "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "hz": "CBF",
+            "percent": 100
+                }
+    ]
+}

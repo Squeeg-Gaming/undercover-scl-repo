@@ -1,0 +1,42 @@
+{
+    "id": 92594540,
+    "name": "PHIDELTJASONHOMEWORK",
+    "author": "EmpanadR",
+    "creators": [],
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/f0wRLzNEkjg?si=vUylZdHz_hS9PGdH",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/60FPS",
+    "records": [
+        {
+          "user": "aelzfr",
+          "hz": "60",
+          "link": "https://www.youtube.com/watch?v=MJzpYCYTdw8&ab_channel=aelzfr",
+          "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/XjdbWTawIdg?si=qSCGR-2oq1VO0u5H&t=84",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/xmA60lFlans",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/ytYrs4Mu48M",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ytYrs4Mu48M",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

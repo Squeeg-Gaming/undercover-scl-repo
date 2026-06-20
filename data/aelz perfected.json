@@ -1,0 +1,24 @@
+{
+    "id": 127148708,
+    "name": "aelzfr perfected",
+    "author": "SqueegGD",
+    "creators": [],
+    "verifier": "GMDMIRROR",
+    "verification": "https://youtube.com/watch?v=FbVUNWy_-zA?si=a8-6e3sbjx0r6KvM",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/93FPS",
+    "records": [
+        {
+        "user": "AstroGuy",
+        "link": "https://www.youtube.com/watch?v=6_jQfLWHY8k",
+        "hz": 93,
+        "percent": 100
+        },
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=QN4I6fjadMc",
+        "hz": 93,
+        "percent": 100
+        }
+    ]
+}

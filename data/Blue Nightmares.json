@@ -1,0 +1,24 @@
+{
+    "id": 136827753,
+    "name": "Blue Nightmares",
+    "author": "DelgadoYeet404",
+    "creators": ["Carter Traywick, DelgadoYeet404"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/CTcRR6Hj3Tk",
+    "percentToQualify": 100,
+    "password": "Scroll Strumming/CBF",
+    "records": [
+        {
+            "user": "Astroguy",
+            "link": "https://youtu.be/T-m2n8iy2Pk?si=GrGinzoYp6WgDkfA",
+            "hz": 240,
+            "percent": 100
+        },
+            {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=V6xWVe8gF20",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

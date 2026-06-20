@@ -1,0 +1,36 @@
+{
+    "id": 94357059,
+    "name": "32 fps spam real",
+    "author": "AllOnRed777",
+    "creators": ["AllOnRed777"],
+    "verifier": "AllOnRed777",
+    "verification": "https://www.youtube.com/watch?v=kcF-GFzKmZE",
+    "percentToQualify": "100",
+    "password": "Alternating/32FPS",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

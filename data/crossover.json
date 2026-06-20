@@ -1,0 +1,25 @@
+{
+    "id": 139875618,
+    "name": "crossover",
+    "author": "Errorrrzz",
+    "creators": [],
+    "verifier": "Errorrrzz",
+    "verification": "https://www.youtube.com/watch?v=DBq5EcgR6JE",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+   
+            {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": 124242125,
+    "name": "Free spam but only t",
+    "author": "Angopr",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://youtu.be/TD9lTQc_Nq4?si=M9C4W01nhgpKbEOy",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+   "records": [
+        
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 60,
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 60,
+            "percent": 100
+        },
+                                       {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "60",
+            "percent": 100
+        }
+    ]
+}

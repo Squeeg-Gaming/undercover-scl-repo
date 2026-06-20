@@ -1,0 +1,25 @@
+{
+    "id": 135649929,
+    "name": "say wallahi bro",
+    "author": "daunlabavoi",
+    "creators": ["daunlabavoi"],
+    "verifier": "GMDMIRROR",
+    "verification": "https://www.youtube.com/watch?v=7pwcmMo83Pk",
+    "percentToQualify": "100",
+    "password": "Ludwig/46.5FPS",
+    "records": [
+     
+                {
+            "user": "AngoPR",
+            "link": "https://youtu.be/Q1IjyIP9uXc",
+            "percent": 100,
+            "hz": 240
+                },
+                    {
+            "user": "MiRPacK19",
+            "link": "https://youtu.be/Q1IjyIP9uXc",
+            "percent": 100,
+            "hz": 240
+                }
+    ]
+}

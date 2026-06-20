@@ -1,0 +1,24 @@
+{
+    "id": 130539588,
+    "name": "Hello Pixel",
+    "author": "ywuChaos",
+    "creators": ["Nick24","aelzfr", "fbihbi"],
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/bM9q6oIHHvk",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/xhben7txBk8?si=z7VpJYIhcpacdLkK&t=1026",
+        "hz": "CBF",
+        "percent": 100
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=le4EjC6prbE",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+"id": 132571395,
+"name": "Tripple Epstein Legend",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, Xed"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/wn8ygXEn_Tc?si=9EDvZJU6QZQ03mhh",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+                               {
+            "user": "AngoPR",
+            "link": "https://youtu.be/TF7oU1vgtxE?si=xHuzp3AITGjqF2wm",
+            "percent": 100,
+            "hz": 240
+        },
+                                   {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=1d3eYceD3XY",
+            "percent": 100,
+            "hz": 240
+        },
+    {
+            "user": "G1rcy",
+            "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

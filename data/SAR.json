@@ -1,0 +1,19 @@
+{
+    "id": 135160434,
+    "name": "Shitty Arm Rest (jitter)",
+    "author": "TrooperGMD",
+    "creators": ["TrooperGMD"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/sh5_ee3sZkw?si=Vqjxeglj43Ab42qC",
+    "percentToQualify": "100",
+    "password": "Jitter/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

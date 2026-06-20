@@ -1,0 +1,18 @@
+{
+    "id": 135204149,
+    "name": "straight septuples",
+    "author": "MrArmYT",
+    "creators": ["MrArmYT"],
+    "verifier": "ClawBuckle",
+    "verification": "https://youtu.be/rgDyLmTildA",
+    "percentToQualify": 100,
+    "password": "Lip Spam/60FPS",
+    "records": [
+                                                        {
+            "user": "Angopr",
+            "link": "https://youtu.be/O1fduSCj-eo?si=O_odTEKOkhZNWn1Z",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

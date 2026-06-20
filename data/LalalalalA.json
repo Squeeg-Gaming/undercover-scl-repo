@@ -1,0 +1,37 @@
+{
+    "id": 76972318,
+    "name": "LalalalalA",
+    "author": "MeowPau",
+    "creators": ["TheDiamondPizza"],
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/zg0OT63byRE",
+    "percentToQualify": 100,
+    "password": "Uncapped Alternating/CBF",
+    "records": [
+        {
+            "user": "pixelfactorial",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=67lvz3cfly8",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=eM8TJPlpafE",
+            "percent": 100,
+            "hz": "CBF"
+        
+        }
+    ]
+}

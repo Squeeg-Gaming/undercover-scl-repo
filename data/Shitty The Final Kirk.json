@@ -1,0 +1,25 @@
+{
+    "id": 139037428,
+    "name": "Shitty The Final Kirk",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/k2zFOA2S3dQ",
+    "percentToQualify": 100,
+    "password": "AltJitter/CBF",
+    "records": [
+     
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/sxxQTxDkWJk",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

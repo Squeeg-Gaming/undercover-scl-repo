@@ -1,0 +1,37 @@
+{
+    "id": 136816703,
+    "name": "Carter Tapping ZZZ",
+    "author": "Carter Traywick",
+    "creators": ["Carter Traywick"],
+    "verifier": "Carter Traywick",
+    "verification": "https://www.youtube.com/watch?v=pBHjHuBCUDQ",
+    "percentToQualify": 100,
+    "password": "Carter Tapping/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=jkZ1wSpPl5Y",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/vGmE7faf_aY",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+            "user": "StrawberryGD",
+            "link": "https://youtu.be/vGmE7faf_aY",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

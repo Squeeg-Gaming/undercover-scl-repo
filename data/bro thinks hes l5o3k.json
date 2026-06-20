@@ -1,0 +1,30 @@
+{
+    "id": 127839787,
+    "name": "bro thinks hes l5o3k",
+    "author": "ywuChaos",
+    "creators": ["Nick24, ywuChaos"],
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/XEq7MuqzfJU",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {   
+            "user": "PureL",
+            "link": "https://youtu.be/57VymVu9090?t=139",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {   
+            "user": "PaperGuy",
+            "link": "https://youtu.be/2uHq5yplwvw",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {   
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/WUdA8r142wA",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

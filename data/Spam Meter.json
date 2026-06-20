@@ -1,0 +1,49 @@
+{
+    "id": 134913747,
+    "name": "Spam Meter",
+    "author": "abredicegd",
+    "creators": [],
+    "verifier": "abredicegd",
+    "verification": "https://www.youtube.com/watch?v=uvS_69P9VQg&lc=UgzUuM2deeV0X8iiPwx4AaABAg",
+    "percentToQualify": "100",
+    "password": "Alternating/Jitter/CBF",
+    "records": [
+                 {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/_RO7iahLYcg",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "AngoPR",
+            "link": "https://youtu.be/ztFfOy5i6M0?si=jPo9I1gKAjT-BB4D",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+        
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://youtu.be/SNV1NBr44zo",
+            "hz": "120",
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ttV96RgVk8I",
+            "hz": "120",
+            "percent": 100
+        }
+    ]
+}

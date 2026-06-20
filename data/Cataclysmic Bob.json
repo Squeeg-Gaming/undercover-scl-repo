@@ -1,0 +1,72 @@
+{
+    "id": 94912186,
+    "name": "Cataclysmic Bob",
+    "author": "Whizkid05",
+    "creators": [],
+    "verifier": "Whizkid05",
+    "verification": "https://youtu.be/CFNd2Qk81PU",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/IvKhAbgQ_lw",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/GHuhsr0NETY",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=MiUPjHWcmJU",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Frozix",
+        "link": "https://youtu.be/Z1HzqxOSJY8",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "PureL",
+        "link": "https://youtu.be/AeC4Xn6JTWs?t=7909",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "galbeni7",
+        "link": "https://youtu.be/uhJRaPks59g",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Xnor",
+        "link": "https://youtu.be/xdoOaBaZylg",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=-m8VcZnAdzc&t=104s",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "Blendro",
+        "link": "https://youtu.be/5z1dj-D7cSo",
+        "hz": "CBF",
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/5z1dj-D7cSo",
+        "hz": "CBF",
+        "percent": 100
+        }
+    ]
+}

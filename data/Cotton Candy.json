@@ -1,0 +1,49 @@
+{
+    "id": 124986701,
+    "name": "Cotton Candy",
+    "author": "Aurorae",
+    "creators": [],
+    "verifier": "Aurorae",
+    "verification": "https://www.youtube.com/watch?v=i8Z1gy9LI6E",
+    "percentToQualify": "100",
+    "password": "Alternating/240FPS",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://www.youtube.com/watch?v=-EJClo5Tz34",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=1tYlecB5bLU&t=35s",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://www.youtube.com/watch?v=ak9erLfz_xE",
+            "percent": 100,
+            "hz": "240"
+       },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=aU5JYspsQZ0&t=150s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=aU5JYspsQZ0&t=150s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/1OBCo4YJQcQ",
+            "percent": 100,
+            "hz": "240"
+        
+        }
+    ]
+}

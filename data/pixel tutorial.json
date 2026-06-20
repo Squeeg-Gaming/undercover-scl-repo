@@ -1,0 +1,18 @@
+{
+    "id": 115134361,
+    "name": "pixel tutorial",
+    "author": "aelzfr",
+    "creators": ["aelzfr"],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=V6xWVe8gF20",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+     {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

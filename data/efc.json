@@ -1,0 +1,54 @@
+{
+    "id": 115213850,
+    "name": "Elementary for chaos",
+    "author": "ywuChaos",
+    "creators": ["ywuChaos"],
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=guP7uuOYU4g&time_continue=7&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fthespamchallengelist.pages.dev%2F",
+    "percentToQualify": 100,
+    "password": "Alternating/Cbf",
+    "records": [
+                {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=aLn6Obe-Xo4",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                        {
+            "user": "Frozix",
+            "link": "https://www.youtube.com/watch?v=Z1HzqxOSJY8",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                                {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=cOcnE5aadS8&t=2804s",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                                        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=FrLn2yuUwik",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                                                {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=FrLn2yuUwik",
+            "percent": 100,
+            "hz": "cbf",
+        }, 
+                        {
+            "user": "loooookkk",
+            "link": "https://www.youtube.com/watch?v=FR2SbfRIDlk&t=230s",
+            "percent": 100,
+            "hz": "cbf",
+        },
+                               {
+            "user": "Blendro",
+            "link": "https://www.youtube.com/watch?v=WhLdMqdgF00",
+            "percent": 100,
+            "hz": "cbf",
+        }
+    ]
+} 

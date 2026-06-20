@@ -1,0 +1,18 @@
+{
+    "id": 140928465,
+    "name": "Modern vip slop",
+    "author": "TTSum",
+    "creators": ["TTSum"],
+    "verifier": "shafikdabest",
+    "verification": "https://youtu.be/iD3JaSGhSpc",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig",
+    "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

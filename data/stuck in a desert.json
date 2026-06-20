@@ -1,0 +1,30 @@
+{
+    "id": "129277931",
+    "name": "Stuck in a Desert",
+    "author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://www.youtube.com/watch?v=b6RChhpuDhM",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+        {
+            "user": "Cyber<3<3",
+            "link": "https://medal.tv/games/geometry-dash/clips/moTI32aIB7vTWKKZX?invite=cr-MSxZdEIsMjY2OTY3NjY0&v=32",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+       },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

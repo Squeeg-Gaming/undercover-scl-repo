@@ -1,0 +1,66 @@
+{
+    "id": 73534611,
+    "name": "ice spam",
+    "author": "Pandaice27",
+    "creators": ["Pandaice27"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=pysK4kKGqj0",
+    "percentToQualify": 100,
+    "password": "Alternating/CBF",
+    "records": [
+     {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/2mJEEtTEpuo?si=rSIHuWlem1uOoPPa",
+            "hz": "240",
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        },
+                               {
+        "user": "AngoPR",
+        "link": "https://youtu.be/xQ3W9_0-2uM?si=LYo9OrlONXU5QIq0",
+        "hz": "CBS",
+        "percent": 100
+        },
+        {
+        "user": "polar1s",
+        "link": "youtube.com/watch?v=X6TYZMbtJg4&t=604s",
+        "hz": "CBF",
+        "percent": 100
+        },
+                                              {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                           },
+                                              {    
+            "user": "BunnyLlumi",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                              },
+        {    
+            "user": "powergreen",
+            "link": "https://www.youtube.com/watch?v=TsuC_77nnSc",
+            "hz": "240",
+            "percent": 100
+                                              },
+                        {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                  },
+                    {    
+            "user": "Deniidk",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "22",
+            "percent": 100
+                        }
+    ]
+}

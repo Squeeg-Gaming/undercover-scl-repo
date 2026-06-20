@@ -1,0 +1,42 @@
+{
+    "id": 132701675,
+    "name": "Tower D",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=yL72Pku_UHU",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/v0h3L6x1Xrw",
+            "hz": 240,
+            "percent": 100
+                  },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/Vd0xcPkwfNk?si=m4w0dmM5XZk_YtQL",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/bkpuJf8GZ6k?si=IWu8MmxzbCOPB4xY",
+            "percent": 100,
+            "hz": 240
+         },
+        {
+            "user": "jeysce",
+            "link": "https://youtu.be/bkpuJf8GZ6k?si=IWu8MmxzbCOPB4xY",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "AngoPR",
+            "link": "https://youtu.be/zkuhtGa8UvM?si=MlfoGMYDeW_GZVE8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

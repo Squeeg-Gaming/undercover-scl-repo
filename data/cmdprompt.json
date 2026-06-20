@@ -1,0 +1,30 @@
+{
+    "id": 117236139,
+    "name": "Command Prompt",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://www.youtube.com/watch?v=T3RfNFVEREE&ab_channel=aelzfr",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/93FPS",
+    "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=QN4I6fjadMc",
+        "hz": 93,
+        "percent": 100
+        },
+        {
+        "user": "MiRPacK19",
+        "link": "https://youtu.be/6yjC3DV21O4",
+        "hz": 93,
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "ill add link later",
+        "hz": 93,
+        "percent": 100
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": 138675057,
+    "name": "spam Unnamed spam",
+    "author": "ShadowMoon",
+    "creators": [],
+    "verifier": "ShadowMoon",
+    "verification": "https://www.youtube.com/watch?v=XmvHQX0M3rg",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+    
+        
+            {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

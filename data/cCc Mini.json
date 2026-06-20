@@ -1,0 +1,30 @@
+{
+    "id": 64101174,
+    "name": "cCc Last Spam Miniwa",
+    "author": "JoinMolten",
+    "creators": [],
+    "verifier": "BensonGD",
+    "verification": "https://youtu.be/x2zgATIJM34",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+   "records": [
+        {
+        "user": "Sandwich",
+        "link": "https://medal.tv/games/geometry-dash/clips/msnavf5JCuozqLHBB?invite=cr-MSxlbXYsNDcyMzE5NTg3",
+        "hz": "360",
+        "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/OGcIxWIGEQE",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=B_G_uD2GARw",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

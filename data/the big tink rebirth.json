@@ -1,0 +1,48 @@
+{
+    "id": 132168914,
+    "name": "The Big Tink Rebirth",
+    "author": "Squeeg",
+    "creators": [],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=Daeqq6zPR3Y",
+    "percentToQualify": "100",
+    "password": "Rake/CBF/No RT",
+    "records": [
+                {
+            "user": "AngoPr",
+            "link": "https://youtu.be/jWD_uwiq0HI?si=FrKKK2Yd4iHybt7e",
+            "percent": 100,
+            "hz": 240
+        },
+                                        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+         },
+                                        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+                                        },
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+       },
+    {
+            "user": "clairetrt",
+            "link": "https://youtu.be/akFOELZVXKk",
+            "hz": 240,
+            "percent": 100
+             },
+    {
+            "user": "zeorixgd",
+            "link": "https://youtu.be/akFOELZVXKk",
+            "hz": 240,
+            "percent": 100
+    }
+    ]
+}

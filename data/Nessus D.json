@@ -1,0 +1,36 @@
+{
+    "id": 136421993,
+    "name": "Nessus D",
+    "author": "DelgadoYeet404",
+    "creators": [],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/_RO7iahLYcgA",
+    "percentToQualify": "100",
+    "password": "AltJItter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/jUl8eUTns2E",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "TheBridgerMC",
+            "link": "https://youtu.be/krxcz1yjjJk?si=ulT5Csvj_IIA7Weh",
+            "percent": 100,
+            "hz": "240"
+        },
+                {
+            "user": "ShayPlaz",
+            "link": "https://www.youtube.com/watch?v=KupVFL0yHZ0",
+            "percent": 100,
+            "hz": "CBF"
+        },
+                        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/5SGJBQT1i28",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

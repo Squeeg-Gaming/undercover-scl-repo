@@ -1,0 +1,24 @@
+{
+    "id": 124244956,
+    "name": "Roof But Roof Scroll",
+    "author": "AngoPR",
+    "creators": ["AngoPR"],
+    "verifier": "Squeeg",
+    "verification": "https://www.youtube.com/watch?v=piWomCy-pNY",
+    "percentToQualify": 100,
+    "password": "Scroll Clicking/CBF",
+    "records": [
+   {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/AZUMa5nMYEM",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

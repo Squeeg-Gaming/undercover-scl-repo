@@ -1,0 +1,43 @@
+{
+    "id": 128276083,
+    "name": "BLJ Never Clear(Scroll)",
+    "author": "Squeeg",
+    "creators": ["Squeeg, SomeDudeV3"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/WoPU-yaYEPk",
+    "percentToQualify": 100,
+    "password": "Manual Scroll/CBF",
+    "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/BcYIE22wOeg",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                                                                                 {
+            "user": "AngoPR",
+      "link": "https://youtu.be/1KAsJVRj4Qk?si=HbRCiJgJB670E9ce",
+      "hz": "CBF",
+      "percent": 100
+        },
+        {
+            "user": "powergreen",
+      "link": "https://www.youtube.com/watch?v=Nj_lr5ADbyI",
+      "hz": "CBF",
+      "percent": 100
+        }
+    ]
+}

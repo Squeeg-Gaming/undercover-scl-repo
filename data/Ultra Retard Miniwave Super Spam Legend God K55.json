@@ -1,0 +1,72 @@
+{
+    "id": 64802301,
+    "name": "Ultra Retard Miniwave Super Spam Legend God K55",
+    "author": "Needless",
+    "creators": ["Needles, RedUniverse"],
+    "verifier": "Needles",
+    "verification": "https://youtu.be/JPofpAPvoK8?si=pY4jQVMCTceAtJG6",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "MeowPau",
+        "link": "https://www.youtube.com/watch?v=3AZSFdh6New",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/l0sE6C_wSHE",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=gb-1dpBP8Rw",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "Shafikdabest",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1460103116967116811",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1462558294982791282",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "meow24",
+        "link": "https://www.youtube.com/watch?v=zTMRaL2Hs7E",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "tFluffy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492806364165050398",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

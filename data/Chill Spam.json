@@ -1,0 +1,18 @@
+{
+    "id": 130893210,
+    "name": "Chill Spam",
+    "author": "AngoPR",
+    "creators": [],
+    "verifier": "AngoPR",
+    "verification": "https://www.youtube.com/watch?v=S9TlTYtbhpY",
+    "percentToQualify": "100",
+    "password": "Lip Spam/60FPS",
+    "records": [
+                {
+            "user": "Dan",
+            "link": "https://www.youtube.com/watch?v=AWKIksavP20&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}

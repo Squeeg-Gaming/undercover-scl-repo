@@ -1,0 +1,18 @@
+{
+    "id": 131728734,
+    "name": "kinetic pulse rifel",
+    "author": "Xed",
+    "creators": ["Xed"],
+    "verifier": "Xed",
+    "verification": "https://www.youtube.com/shorts/bh0IxfBFfLE",
+    "percentToQualify": 100,
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+ {
+            "user": "ShayPlaz",
+            "link": "https://youtu.be/dh2kJuXQ3VM?si=_TmcSmQJfV6Uv8Bw",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}

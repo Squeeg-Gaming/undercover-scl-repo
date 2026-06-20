@@ -1,0 +1,30 @@
+{
+    "id": 125675337,
+    "name": "Chaos Circles Spam",
+    "author": "zLiknod",
+    "creators": ["zLiknod"],
+    "verifier": "ad3usgmd",
+    "verification": "https://www.youtube.com/watch?v=j95vcdqHhmk",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/-EJClo5Tz34",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/1tYlecB5bLU?t=48",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "PureL",
+            "link": "https://www.youtube.com/watch?v=57VymVu9090&t=37s",
+            "hz": "CBF",
+            "percent": 100
+        }
+    ]
+}

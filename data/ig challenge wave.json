@@ -1,0 +1,24 @@
+{
+    "id": 131578158,
+    "name": "ig challenge wave",
+    "author": "ad3usgmd",
+    "creators": ["meowpau, zLiknod, ad3usgmd"],
+    "verifier": "ad3usgmd",
+    "verification": "https://youtu.be/JzZwb0umwho",
+    "percentToQualify": "100",
+    "password": "Alternating/CBF",
+    "records": [
+        {   
+            "user": "ywuChaos",
+            "link": "https://youtu.be/PzBI_zacveI?t=72",
+            "percent": 100,
+            "hz": "CBF"
+        },
+        {   
+            "user": "Blendro",
+            "link": "https://youtu.be/XUfNvWbcAgY",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

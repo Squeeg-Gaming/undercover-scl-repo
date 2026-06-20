@@ -1,0 +1,31 @@
+{
+    "id": 64228970,
+    "name": "what",
+    "author": "UFokinWotM8",
+    "creators": [],
+    "verifier": "UFokinWotM8",
+    "verification": "https://www.youtube.com/watch?v=wLqyCOpGRCo",
+    "percentToQualify": "100",
+    "password": "Alternating/59FPS",
+   "records": [
+        {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/watch?v=F7yR7-9RedQ",
+        "hz": "59",
+        "percent": 100
+        },
+        {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=amLFS95oIPw",
+        "hz": "59",
+        "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://www.youtube.com/watch?v=amLFS95oIPw",
+        "hz": "59",
+        "percent": 100
+       
+        }
+    ]
+}

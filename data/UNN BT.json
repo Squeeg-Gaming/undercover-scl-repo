@@ -1,0 +1,42 @@
+{
+    "id": 131700181,
+    "name": "UNN Bugatti Tutorial",
+    "author": "Shayplaz",
+    "creators": ["Shayplaz"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/tLySS5dhDDs",
+    "percentToQualify": "100",
+    "password": "AltJItter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/UaMPUpLk6Ks?si=soZtUjJudnDHyw30",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+         },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+         },
+        {
+            "user": "jeysce",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+        },
+                {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/shorts/3JeiokPfS2k",
+            "hz": 360,
+            "percent": 100
+        }
+    ]
+}

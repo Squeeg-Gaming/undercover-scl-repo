@@ -1,0 +1,61 @@
+{
+    "id": 136379064,
+    "name": "Shitty GoToDefault In Hell",
+    "author": "Russian Guy",
+    "creators": ["Russian Guy"],
+    "verifier": "Russian Guy",
+    "verification": "https://youtu.be/EE14Y2nSEGo?si=vr9kAYjvSqWEslKu",
+    "percentToQualify": 100,
+    "password": "Alternating/Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Delgado_Yeet_404",
+            "link": "https://youtu.be/YNCg4a8SIFs?si=NJCMyuaeLKrOmECN",
+            "percent": 100,
+            "hz": 240
+      
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=qxa6OpYALbk",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+     },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=8uldk6FuZTc",
+            "hz": 240,
+            "percent": 100
+       },
+        {
+        "user": "Blessed",
+            "link": "https://discord.com/channels/1420111313220403444/1491823933605806210/threads/1498723101960179804",
+            "hz": 240,
+            "percent": 100
+        },
+                                      {
+            "user": "CyanZone",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                },
+                                      {
+            "user": "zeorixgd",
+            "link": "https://www.youtube.com/watch?v=E0ogH6s7IAM",
+            "hz": "CBF",
+            "percent": 100
+                                      }
+    ]
+}

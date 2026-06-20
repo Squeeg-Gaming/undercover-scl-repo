@@ -1,0 +1,18 @@
+{
+    "id": 132564339,
+    "name": "Red Anchovies",
+    "author": "LightningGD",
+    "creators": ["Rogi, Lightning, Color1683"],
+    "verifier": "LightningGD",
+    "verification": "https://www.youtube.com/watch?v=pRzgqHzIfmk",
+    "percentToQualify": "100",
+    "password": "Altjitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "Squeeg",
+            "link": "https://youtu.be/uhJRaPks59g?si=gb59IzXZpNFI4JmV",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

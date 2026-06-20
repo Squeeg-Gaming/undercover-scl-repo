@@ -1,0 +1,18 @@
+{
+"id": 136415684,
+"name": "The End of BBC",
+"author": "DelgadoYeet404",
+"creators": ["Delgado_Yeet_404, SomeDudeV3, Canela, Squeeg"],
+"verifier": "Delgado_Yeet_404",
+"verification": "https://youtu.be/V5PYtSKBWXg",
+"percentToQualify": 100,
+"password": "Altjitter/Ludwig/CBF",
+"records": [
+    {
+            "user": "Squeeg",
+            "link": "https://youtu.be/uhJRaPks59g?si=gb59IzXZpNFI4JmV",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

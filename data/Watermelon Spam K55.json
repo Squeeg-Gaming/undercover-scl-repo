@@ -1,0 +1,60 @@
+{
+    "id": 65288453,
+    "name": "Watermelon Spam K55",
+    "author": "Needless",
+    "creators": ["DrCuber"],
+    "verifier": "BONEFRAG",
+    "verification": "https://www.youtube.com/watch?v=_HWjVu6KQXQ",
+    "percentToQualify": "100",
+    "password": "K55/300FPS",
+    "records": [
+        {
+        "user": "AllOnRed",
+        "link": "https://www.youtube.com/watch?v=NEVDdbtHhyU",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "9tn",
+        "link": "https://www.youtube.com/watch?v=rmtbmhyrUQM",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rkWk1TgZXag",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "Shafikdabest",
+        "link": "https://youtu.be/TYlPW-uK9OU?si=NpEGz06C3Wxzc2DE",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "trasp",
+        "link": "https://youtu.be/w0sEVwCv7_w",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "minusclub",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1469437335698407505",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "tFluffy",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492813158707105894",
+        "hz": "300",
+        "percent": 100
+        },
+        {
+        "user": "random",
+        "link": "https://discord.com/channels/1432043471094546587/1439402617670467754/1492917741999357983",
+        "hz": "300",
+        "percent": 100
+        }
+    ]
+}

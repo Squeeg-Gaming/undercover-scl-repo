@@ -1,0 +1,48 @@
+{
+    "id": 98121986,
+    "name": "free15cpsifshared",
+    "author": "thepastel",
+    "creators": ["thepastel"],
+    "verifier": "Pastelliano",
+    "verification": "https://youtu.be/s5MEaA9VvzM",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/99Xk64wkdP0",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "pixelfactorial",
+            "link": "https://youtu.be/-cmZzo0lSI0",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/G5k3I2IJZI0",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "galbeni7",
+            "link": "https://youtu.be/uhJRaPks59g",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/-m8VcZnAdzc?t=136",
+            "percent": 100,
+            "hz": "60"
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/Nh1Zu17VUHw?t=31",
+            "percent": 100,
+            "hz": "60"
+        }
+    ]
+}

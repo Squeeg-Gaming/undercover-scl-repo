@@ -1,0 +1,67 @@
+{
+    "id": 77402435,
+    "name": "speed",
+    "author": "SomeDudeV3",
+    "creators": ["SomeDudeV3"],
+    "verifier": "SomeDudeV3",
+    "verification": "https://www.youtube.com/watch?v=jDqgulhBZQo",
+    "percentToQualify": 100,
+    "password": "Rake/CBF",
+    "records": [
+        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=RLvx1R35Ibc",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "Copsstartkissingmyhotmouth",
+        "link": "https://www.youtube.com/watch?v=kcumkhhaZqQ",
+            "hz": 240,
+            "percent": 100
+        },
+                {
+        "user": "AngoPR",
+        "link": "https://youtu.be/UnD7ivQlIYg?si=rf5qVorz3VhxZf35",
+            "hz": 240,
+            "percent": 100
+        },
+                        {
+        "user": "icyy",
+        "link": "https://youtu.be/qmalHnBD-Cg?si=pQQoUqMUjEIzTGCt",
+            "hz": 240,
+            "percent": 100
+        },
+
+        {
+            "user": "Cyber<3<3",
+            "link": "https://medal.tv/games/geometry-dash/clips/moTFVkimzcldKJ32D?invite=cr-MSw1WGMsMjY2OTY3NjY0&v=13",
+            "percent": 100,
+            "hz": 240
+        },
+                        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=JnXzG2JxM7U",
+            "percent": 100,
+            "hz": 240
+        },
+                {
+            "user": "Grape",
+            "link": "https://medal.tv/games/geometry-dash/clips/mCGGtSIhWd0EuY-Nt?invite=cr-MSxrZEssMzk0OTY5MzM4&v=16",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/akFOELZVXKk",
+            "percent": 100,
+            "hz": 240
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/akFOELZVXKk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

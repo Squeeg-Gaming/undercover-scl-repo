@@ -1,0 +1,36 @@
+{
+    "id": 136716691,
+    "name": "Unknown UFO",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404, Canela, SomedudeV3"],
+    "verifier": "Delgado_Yeet_404",
+    "verification": "https://youtu.be/PmxEs09qjI4?si=rJ_Rv15sCmot3F1C",
+    "percentToQualify": 100,
+    "password": "AltJitter/Ludwig/CBF",
+    "records": [
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 360,
+            "percent": 100
+        },
+        {
+        "user": "Astroguy",
+            "link": "https://youtu.be/aa2H7fjZ0Zs?si=RoOtcdJjxolKeUjE",
+            "hz": 240,
+            "percent": 100
+    },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+                        {
+            "user": "Squeeg",
+      "link": "https://youtube.com/live/qsULRwDB7vU",
+      "hz": "CBF",
+      "percent": 100
+    }
+    ]
+}

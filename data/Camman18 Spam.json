@@ -1,0 +1,48 @@
+{
+    "id": 116568859,
+    "name": "camman18 spam",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/alKh9C6eTwk",
+    "percentToQualify": "100",
+    "password": "Alternating/60FPS",
+    "records": [
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/kX-ls5jhyWU?t=131",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=xt72zidRBps",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": 60,
+            "percent": 100
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://youtu.be/qDijDODC_co",
+            "hz": 60,
+            "percent": 100
+        }
+    ]
+}

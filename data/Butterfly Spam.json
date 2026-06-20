@@ -1,0 +1,37 @@
+{
+    "id": 137264740,
+    "name": "Butterfly Spam",
+    "author": "Compsognathus3",
+    "creators": ["Compsognathus3"],
+    "verifier": "Compsognathus3",
+    "verification": "https://youtu.be/ulG4jz68QHM?si=lGL1K5qnojcQS9mE",
+    "percentToQualify": "100",
+    "password": "Butterfly/CBF",
+   "records": [
+    
+        {
+            "user": "AstroGuy",
+            "link": "https://youtu.be/OGcIxWIGEQE",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=8uldk6FuZTc",
+            "hz": 240,
+            "percent": 100
+          },
+        {
+            "user": "0rkyn",
+            "link": "https://www.youtube.com/watch?v=8uldk6FuZTc",
+            "hz": 240,
+            "percent": 100
+        },
+                       {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+        }
+   ]
+}

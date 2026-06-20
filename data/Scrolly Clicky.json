@@ -1,0 +1,37 @@
+{
+    "id": 133337214,
+    "name": "Scrolly Clicky",
+    "author": "Carter Traywick",
+    "creators": ["Carter Traywick"],
+    "verifier": "Carter Traywick",
+    "verification": "https://youtu.be/YoLOcdzZFgo?si=mO66zpQ_LkwW6a1d",
+    "percentToQualify": 100,
+    "password": "Geode Scroll/240FPS/RNG",
+    "records": [
+       
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://youtu.be/Qc84DBA0OiU",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+        "user": "shafikdabest",
+        "link": "https://www.youtube.com/watch?v=2mJEEtTEpuo",
+            "hz": "60",
+            "percent": 100
+        },
+        {
+        "user": "AstroGuy",
+        "link": "https://youtu.be/jUl8eUTns2E",
+            "hz": "60",
+            "percent": 100
+        },
+                        {
+        "user": "AngoPR",
+        "link": "https://youtu.be/RtF_XxNEoag?si=BRPxB-TkA0FWh4HC",
+        "hz": "120",
+        "percent": 100
+        }
+    ]
+}

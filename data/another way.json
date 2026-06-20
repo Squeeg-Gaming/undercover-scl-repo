@@ -1,0 +1,18 @@
+{
+    "id": 113455869,
+    "name": "another way",
+    "author": "pixelfactorial",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=r-wS9-Hfz9o",
+    "percentToQualify": "100",
+    "password": "Alternating/64FPS",
+    "records": [
+        {
+        "user": "PaperGuy",
+      "link": "https://youtu.be/BSEBTy4fhtw",
+      "hz": 64,
+      "percent": 100
+        }
+]
+}

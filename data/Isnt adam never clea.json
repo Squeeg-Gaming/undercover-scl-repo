@@ -1,0 +1,49 @@
+{
+    "id": 125948059,
+    "name": "Isnt Adam Never Clea",
+    "author": "JustAnUnknown",
+    "creators": [],
+    "verifier": "IsntAdam",
+    "verification": "https://www.youtube.com/watch?v=4SRIFWAtKPs",
+    "percentToQualify": 100,
+    "password": "Ludwig/Altjitter/CBF",
+    "records": [
+        {
+            "user": "F1erzza",
+            "link": "https://youtu.be/x_pnfo5EUDA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=z9CuyZHjF9g",
+            "hz": "CBF",
+            "percent": 100
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=M8zfyTPHazI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LightningGD",
+            "link": "https://www.youtube.com/watch?v=75mVNls-Ja0",
+            "percent": 100,
+            "hz": 240
+
+        },
+        {
+            "user": "Delgado_yeet_404",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+         },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
+        }
+    ]
+}
