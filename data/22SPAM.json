@@ -1,0 +1,97 @@
+{
+    "id": 97977886,
+    "name": "2 2 Spam",
+    "author": "DelgadoYeet404",
+    "creators": ["DelgadoYeet404"],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/E_hVSA1r7y0",
+    "percentToQualify": "100",
+    "password": "Jitter/CBF",
+    "records": [
+        {
+            "user": "shafikdabest",
+            "link": "https://youtu.be/krxcz1yjjJk?si=TtrQHEVCD971MaLU",
+            "percent": 100,
+            "hz": "60"
+        },
+                {
+            "user": "AngoPR",
+            "link": "https://youtu.be/JsFIlp3kGqQ?si=3D-E7yG3wLaGtiQK",
+            "percent": 100,
+            "hz": "cbf"
+       
+        },
+        {
+            "user": "G1rcy",
+            "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
+            "hz": 240, 
+            "percent": 100
+        },
+        {
+            "user": "shafikdabest",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "rx1nfall",
+            "link": "https://youtu.be/edRFcsP80G0?si=QDUIhCRjL9gDk77F",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Errorrrzz",
+            "link": "https://youtu.be/edRFcsP80G0?si=QDUIhCRjL9gDk77F",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Plonker",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "StrawberryGD",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "Kurona",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                                {    
+            "user": "수생----",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+            },
+                        {    
+            "user": "Memory00",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g",
+            "hz": "240",
+            "percent": 100
+                               },
+                        {    
+            "user": "BILLYBOBERTSONTHE3RD",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
+                        }
+    ]
+}
