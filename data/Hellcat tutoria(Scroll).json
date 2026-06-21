@@ -1,0 +1,37 @@
+{
+    "id": 127187970,
+    "name": "Hellcat Tutorial(scroll)",
+    "author": "Squeeg, SomeDudeV3",
+    "creators": [],
+    "verifier": "Delgado_yeet_404",
+    "verification": "https://youtu.be/WoPU-yaYEPk",
+    "percentToQualify": "100",
+    "password": "Manual Scroll/CBF",
+    "records": [
+     
+        {
+            "user": "G1rcy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+            {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=0scKDR0n6aU&t=1116s",
+            "hz": 240,
+            "percent": 100
+        },
+        {
+            "user": "smelly bandi",
+            "link": "https://www.youtube.com/watch?v=sbr2QPEFBKo",
+            "hz": 240,
+            "percent": 100
+        },
+                                                    {
+            "user": "AngoPR",
+      "link": "https://youtu.be/QSwgox2x_LI?si=wQZ02mz63M-KxBXA",
+      "hz": "CBF",
+      "percent": 100
+        }
+    ]
+}
