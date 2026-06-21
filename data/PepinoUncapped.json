@@ -1,0 +1,19 @@
+{
+    "id": 75388088,
+    "name": "PEPINO",
+    "author": "MM9000",
+    "creators": ["V453C70M14"],
+    "verifier": "PaperGuy", 
+    "verification": "https://youtu.be/jQcdIG89xuk",
+    "percentToQualify": 100,
+    "password": "Alternating/CBFAltjitter",
+    "records": [
+              {    
+            "user": "AstroGuy",
+            "link": "https://youtu.be/VgxNbzvR-s0",
+            "hz": "240",
+            "percent": 100
+                  
+                                }
+    ]
+}
