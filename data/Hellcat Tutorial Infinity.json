@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Rake/CBF/No RT",
     "records": [
+                        {
+            "user": "AP-Marsfr",
+            "link": "https://youtu.be/KGpCJGg6lnU?si=vv1wDOWQ1d2AxY13",
+            "hz": 240,
+            "percent": 100
+                  }
     ]
 }
