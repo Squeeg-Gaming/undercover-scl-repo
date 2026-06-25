@@ -11,9 +11,14 @@
     },
     {
         "role": "owner",
+        "name": "AP-Marsfr",
+        "link": "www.youtube.com/channel/UCi7DegXgTvaX9V8Y7By3XqA"
+    },
+    {
+        "role": "owner",
         "name": "BLJ_Broken",
         "link": "https://www.youtube.com/@BLJBroken/"
-   },
+    },
     {
         "role": "owner",
         "name": "AstroGuy",
@@ -41,8 +46,8 @@
     },
     {
         "role": "admin",
-        "name": "Skystopper",
-        "link": "https://scratch.mit.edu/users/UNSEENTeam/"
+        "name": "ShayPlaz",
+        "link": "https://www.youtube.com/@Shay-K_47/videos"
     },
     {
         "role": "admin",
@@ -53,6 +58,11 @@
         "role": "helper",
         "name": "PlayerEpic86",
         "link": "https://scratch.mit.edu/users/STASISteam"
+    },
+    {
+        "role": "helper",
+        "name": "AngoPR",
+        "link": "https://therakelist.pages.dev/www.youtube.com/@angoPR1t"
     },
     {
         "role": "dev",
