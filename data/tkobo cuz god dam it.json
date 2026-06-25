@@ -8,5 +8,10 @@
     "percentToQualify": 100,
     "password": "Lip Spam/60FPS",
     "records": [
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=uhJRaPks59g&t=1s&pp=ygUQSSB3YXMgZ29vZCBhdCBpdA%3D%3D",
+            "hz": 240,
+            "percent": 100
     ]
 }
