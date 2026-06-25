@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/shorts/TCBeoQrwgrI",
             "hz": 240,
             "percent": 100
-        }
+        },
+                     {
+            "user": "AP-Marsfr",
+            "link": "https://youtu.be/KGpCJGg6lnU?si=vZEDmQxNqFzGFz2v",
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
