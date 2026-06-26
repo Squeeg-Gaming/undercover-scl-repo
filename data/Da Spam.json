@@ -8,12 +8,7 @@
     "percentToQualify": 100,
     "password": "Alternating/CBF",
     "records": [
-        {
-        "user": "Sandwich",
-        "link": "https://youtu.be/reZXTvozlmo",
-        "hz": "CBF",
-        "percent": 100
-        },
+       
         {
             "user": "AstroGuy",
             "link": "https://youtu.be/ioFULhcGl_M?is=RU_i4GZzJjyrY1IF",
