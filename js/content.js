@@ -367,3 +367,30 @@ export async function fetchScratchPFPs() {
     // Sort by total score
     return [res.sort((a, b) => b.total - a.total), errs];
 }
+export async function fetchPacks() {
+    const packsResult = await fetch(`${dir}/_packs.json`);
+    try {
+        const packs = await packsResult.json();
+        return await Promise.all(
+            packs.map(async (path, rank) => {
+                console.error(`${dir}/packs/${path}.json`);
+                const packResult = await fetch(`../data/packs/${path}.json`);
+                try {
+                    const pack = await packResult.json();
+                    return [
+                        {
+                            ...pack,
+                        },
+                        null,
+                    ];
+                } catch {
+                    console.error(`Failed to load pack #${rank + 1} ${path}.`);
+                    return [null, path];
+                }
+            }),
+        );
+    } catch {
+        console.error(`Failed to load packs.`);
+        return null;
+    }
+}
