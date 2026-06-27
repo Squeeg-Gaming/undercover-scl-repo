@@ -93,7 +93,7 @@ export async function fetchSwagger() {
         console.error("h1");
         console.log(swagger);
         console.log(swaggerResults);
-        console.log(swaggers);
+        console.log(swagger);
         return swagger;
     } catch {
         return null;
