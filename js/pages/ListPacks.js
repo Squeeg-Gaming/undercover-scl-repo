@@ -5,7 +5,6 @@ import { fetchEditors, fetchList, fetchPacks } from "../content.js";
 
 import Spinner from "../components/Spinner.js";
 import LevelAuthors from "../components/List/LevelAuthors.js";
-import levelThumbnail from "../components/List/LevelThumbnail.js";
 
 const roleIconMap = {
     owner: "crown",
@@ -300,7 +299,6 @@ export default {
     methods: {
         embed,
         score,
-        getLevelThumbnail,
         listLevelNameFilter,
     },
 };
