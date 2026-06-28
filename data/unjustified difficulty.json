@@ -9,17 +9,18 @@
     "password": "Rake/CBF/No RT",
     "records": [
         {
-            "user": "Cyber<3<3",
-            "link": "https://medal.tv/games/geometry-dash/clips/moTUJSftPohyM70ge?invite=cr-MSxvbzAsMjY2OTY3NjY0&v=10",
-            "percent": 100,
-            "hz": 240
-        },
-                                                                            {
+           
                 "user": "AP-Marsfr",
             "link": "https://www.youtube.com/watch?v=eUQZcXrciRA",
             "hz": 240,
             "percent": 100
+          {
+                "user": "Radiant",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
         }
+        
         
     ]
 }
