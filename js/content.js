@@ -89,7 +89,7 @@ export async function fetchEditors() {
 export async function fetchSwagger() {
     try {
         const swaggerResults = await fetch(`${dir}/_players.json`);
-        const swagger = swaggerResults.json();
+        const swagger = await swaggerResults.json();
         console.error("h1");
         console.log(swagger);
         console.log(swaggerResults);
@@ -102,7 +102,7 @@ export async function fetchSwagger() {
 export async function fetchScratchIds() {
     try {
         const fetchIds = await fetch(`${dir}/_scratch-ids.json`);
-        const ids = fetchIds.json();
+        const ids = await fetchIds.json();
         console.log(fetchIds);
         console.log(ids);
         return ids;
