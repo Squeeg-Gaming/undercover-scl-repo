@@ -50,7 +50,7 @@ export async function fetchList() {
     }
 }
 export async function fetchPacks() {
-    const packsResult = await fetch(`${dir}/_packs.json`);
+    const packsResult = await fetch(`${dir}./pages/ListPacks.js`);
     try {
         const packs = await packsResult.json();
         return await Promise.all(
