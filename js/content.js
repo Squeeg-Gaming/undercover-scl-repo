@@ -368,4 +368,3 @@ export async function fetchScratchPFPs() {
     return [res.sort((a, b) => b.total - a.total), errs];
 
     }
-}
