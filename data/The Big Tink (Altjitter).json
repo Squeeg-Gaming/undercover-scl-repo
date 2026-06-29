@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Altjitter/Ludwig/Omnijitter/CBF",
     "records": [
+      {
+                "user": "Carter Traywick",
+            "link": "https://youtu.be/V0Iw3vdV9is",
+            "hz": 240,
+            "percent": 100
+        }
     ]
 }
