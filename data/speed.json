@@ -62,6 +62,12 @@
             "link": "https://youtu.be/akFOELZVXKk",
             "percent": 100,
             "hz": 240
+                        },    
+                            {    
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100
         }
     ]
 }
