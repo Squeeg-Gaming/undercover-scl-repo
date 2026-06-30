@@ -1,5 +1,5 @@
 {
-    "id": 0,
+    "id": 142877588,
     "name": "Tower C Squared",
     "author": "Delgado_Yeet_404",
     "creators": [],
@@ -8,5 +8,12 @@
     "percentToQualify": "100",
     "password": "Rake/CBF/No RT",
     "records": [
-    ]
+   
+         {
+                "user": "AstroGuy",
+            "link": "https://youtu.be/5Mo5-HpPfHo",
+            "hz": 60,
+            "percent": 100
+         }
+             ]
 }
