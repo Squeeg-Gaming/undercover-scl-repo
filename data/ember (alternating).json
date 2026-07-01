@@ -37,6 +37,12 @@
         "link": "https://www.youtube.com/watch?v=K3CT8bh_rFw",
             "hz": "CBF",
             "percent": 100
+        },
+         {
+        "user": "ShayPlaz",
+        "link": "https://youtu.be/KOE9aY2fbtU?si=21WbpG2nIjnW4Y_E",
+            "hz": "60",
+            "percent": 100
         }
     ]
 }
