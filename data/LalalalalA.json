@@ -31,7 +31,12 @@
             "link": "https://www.youtube.com/watch?v=eM8TJPlpafE",
             "percent": 100,
             "hz": "CBF"
-        
+          },    
+                            {    
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/@Aquatic-SGD",
+            "hz": "240",
+            "percent": 100    
         }
     ]
 }
