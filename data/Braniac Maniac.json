@@ -9,5 +9,11 @@
     "password": "Altjitter/Ludwig/CBF",
     "description": "Cheese fondue NONG IN DISCORD",
     "records": [
-    ]
+    {
+            "user": "AstroGuy",
+            "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
+            "hz": 240,
+            "percent": 100
+    }
+        ]
 }
