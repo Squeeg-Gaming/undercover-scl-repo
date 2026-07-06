@@ -3,7 +3,7 @@
     "name": "The Golden Tink",
     "author": "Squeeg",
     "creators": [],
-    "verifier": "Squeeg",
+    "verifier": "Canela",
     "verification": "https://www.youtube.com/watch?v=9mp-junTUaQ",
     "percentToQualify": "100",
     "password": "Rake/CBF/No RT",
@@ -31,6 +31,12 @@
             "link": "https://youtu.be/XzD0V9PKxMg?si=B8FyfwPJfi5AglDL",
             "percent": 100,
             "hz": 60
+        },
+                        {
+        "user": "Squeeg",
+        "link": "https://www.youtube.com/watch?v=9mp-junTUaQ",
+        "hz": 60,
+        "percent": 100
         }
     ]
 }
