@@ -37,6 +37,12 @@
             "link": "https://youtu.be/_tbU-M-ko70?si=4W8fCyM1l035NyHo",
             "hz": 360,
             "percent": 100
+     },
+            {
+            "user": "shafikdabest",
+            "link": "https://youtube.com/live/qsULRwDB7vU",
+            "percent": 100,
+            "hz": "240"
     }
     ]
 }
