@@ -19,6 +19,12 @@
       "link": "https://www.youtube.com/shorts/SMUU5U3CpVw",
       "hz": "CBF",
       "percent": 100
-    }
+     },
+            {
+            "user": "shafikdabest",
+            "link": "https://youtube.com/live/qsULRwDB7vU",
+            "percent": 100,
+            "hz": "240"
+                }
     ]
 }
