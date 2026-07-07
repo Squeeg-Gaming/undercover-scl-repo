@@ -118,11 +118,11 @@ export default {
 					        <button class="btn" type="button" @click="applyFilters()">Filter!</button>
                         </div>
 					</form>
-                    <a class="nav__icon" href="https://discord.gg/d47pcnV7Fg">
+                    <a class="nav__icon" href="https://discord.gg/Vk73r9HgXF">
                         <img src="../assets/discord.svg" alt="Discord Logo" />
                     </a>
                     <p>
-                    	<a href="https://discord.com/invite/d47pcnV7Fg">
+                    	<a href="https://discord.gg/Vk73r9HgXF">
                         	join our discord please
                         </a>
                     </p>
