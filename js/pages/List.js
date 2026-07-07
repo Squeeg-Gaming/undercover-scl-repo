@@ -142,7 +142,6 @@ export default {
                             <p class="cl">- <clw>The Immortal Tink (Ludwig)</clw> has been placed at <clw>#1</clw></p>
                             <p class="cl">- <clw>hurtful level b</clw> has been placed at <clw>#7</clw></p>
                             <p class="cl">- <clw>The Emerald Tink (Ludwig)</clw> has been placed at <clw>#12</clw></p>
-                            <p class="cl">squeeg actually updating the logs for once oh my god</p>
                             < p class="cl">- <clw>Hellcat Tutorial III</clw> has been placed at <clw>#21</clw></p>
                              <p class="cl">- <clw>Unnerfed The Big Christmas</clw> has been placed at <clw>#36</clw></p>
 							<p class="cl">hello changelog!</p>
