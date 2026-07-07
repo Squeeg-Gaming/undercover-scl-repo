@@ -138,8 +138,13 @@ export default {
 
                     <main style="display: flex; flex-direction: column; align-items: left; gap: 24px; text-align: left; overflow: hidden; overflow-y: auto; max-height: 300px; width: 700px; border: 3px solid var(--color-primary); border-radius: 5px;">
             			<div style="display: flex; flex-direction: column; align-items: left; gap: 24px; overflow: visible; margin-left: 10px; margin-top: 12px">
-                            <h2>5/30/26</h2>
-                            <p class="cl">- <clw>Acidic</clw> has been placed at <clw>#1</clw></p>
+                            <h2>7/5/26</h2>
+                            <p class="cl">- <clw>The Immortal Tink (Ludwig)</clw> has been placed at <clw>#1</clw></p>
+                            <p class="cl">- <clw>hurtful level b</clw> has been placed at <clw>#7</clw></p>
+                            <p class="cl">- <clw>The Emerald Tink (Ludwig)</clw> has been placed at <clw>#12</clw></p>
+                            <p class="cl">squeeg actually updating the logs for once oh my god</p>
+                            p class="cl">- <clw>Hellcat Tutorial III</clw> has been placed at <clw>#21</clw></p>
+                            p class="cl">- <clw>Unnerfed The Big Christmas</clw> has been placed at <clw>#36</clw></p>
 							<p class="cl">hello changelog!</p>
 				</div>
         			</main>
@@ -168,28 +173,28 @@ export default {
                         Record submission:
                     </h3>
                     <p>
-                        - Achieved the record without using hacks, Footage must not be cropped
+                        - Achieved the record without using hacks, if you are blacklisted we may request to see your settings or mods
                     </p>
                     <p>
-                        - Completions done after 5/30/26 must have a previous death in the recording
+                        - Completions done after 5/30/26 must have a previous death in the recording (or at least watching the player load in)
                     </p>
                     <p>
-                        - Use of bots or autoclickers will result in a permanent list ban
+                        - Use of bots or autoclickers will result in being placed on the player blacklist
                     </p>
                     <p>
-                        - Levels must be made ON SCRATCH, levels on CodeTorch are also allowed
+                        - Levels must be made on Real GD, Scratch GD, Polydash, or 3Dash (SGD levels must be played on min 30FPS~)
                     </p>
                     <h3 style="font-weight: 550;">
                         Level requirement:
                     </h3>
                     <p>
-                        - Levels must be more than 5 clicks in length
+                        - nothing lmao we place anything harder than base after base
                     </p>
                     <p>
-			- Bug fixes will not place seperately
+			- ULDMS AND LDMS WILL NOT PLACE SEPERATELY 
                     </p>
                     <p>
-                        - Lazily modified levels will be taken on a case by case basis
+                        - meow
                     </p>
                 </div>
             </div>
