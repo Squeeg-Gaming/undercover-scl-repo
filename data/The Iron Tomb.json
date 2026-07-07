@@ -13,6 +13,12 @@
         "link": "https://youtu.be/pyELcqCcw9g?si=OrRj7aTemzSH_WqR",
             "hz": "CBF",
             "percent": 100
-                      }  
+                      },
+                        {
+                "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=KwsZK4YTn3k",
+            "hz": 240,
+            "percent": 100 
+                                                    }
     ]
 }
