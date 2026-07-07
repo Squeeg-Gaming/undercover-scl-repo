@@ -8,6 +8,13 @@
     "percentToQualify": "100",
     "password": "Rake/CBF",
     "records": [
+                {
+            "user": "Canela",
+            "link": "https://www.youtube.com/shorts/g6MIlpw-Io0",
+            "hz": 240,
+            "percent": 100
+       
+        },
         {
             "user": "ywuChaos",
             "link": "https://www.youtube.com/watch?v=qWSlMEPABQQ",
