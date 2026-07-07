@@ -20,7 +20,12 @@
             "link": "https://www.youtube.com/watch?v=qWSlMEPABQQ",
             "hz": 240,
             "percent": 100
-       
+        },
+        {
+            "user": "Squeeg",
+            "link": "https://www.youtube.com/watch?v=OKKmfYE5pIM",
+            "hz": 240,
+            "percent": 100
         }
     ]
 }
