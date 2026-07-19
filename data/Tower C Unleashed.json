@@ -14,6 +14,12 @@
             "link": "https://www.youtube.com/watch?v=BqakIzuQqvw",
             "hz": 240,
             "percent": 100
-             }
+             },
+                   {    
+            "user": "Radiant",
+            "link": "https://www.youtube.com/shorts/g6MIlpw-Io0",
+            "hz": "CBF",
+            "percent": 100
+        }
     ]
 }
